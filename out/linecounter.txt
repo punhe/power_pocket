@@ -1,0 +1,733 @@
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2024-03-22 20:25:36
+count workspace : c:\Users\LENOVO\Desktop\test\power_pocket
+total files : 695
+total code lines : 122339
+total comment lines : 730
+total blank lines : 5730
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |               |            182|              0|              6|   0.15|
+   |           .jsp|           7290|             12|            542|    6.0|
+   |    .properties|             90|              3|              3|  0.074|
+   |            .js|            746|            282|            142|   0.61|
+   |         .check|              0|              0|              0|    0.0|
+   |           .xml|           3220|              6|              3|    2.6|
+   |            .MF|              6|              0|              2| 0.0049|
+   |            .ts|           6142|              0|              0|    5.0|
+   |            .md|             28|              3|             16|  0.023|
+   |           .css|          97178|            329|           4110|     79|
+   |           .txt|             35|              0|              8|  0.029|
+   |           .xmi|            520|              0|              0|   0.43|
+   |         .prefs|           2322|             28|              0|    1.9|
+   |       .version|              2|              0|              0| 0.0016|
+   |          .json|              1|              0|              0|0.00082|
+   |          .java|           4287|             35|            873|    3.5|
+   |           .map|             10|              0|              0| 0.0082|
+   |           .ini|              3|              0|              0| 0.0025|
+   |           .sql|            123|             32|             25|   0.10|
+   |     .component|             10|              0|              0| 0.0082|
+   |           .lst|            132|              0|              0|   0.11|
+   |          .meta|             12|              0|              0| 0.0098|
+   -------------------------------------------------------------------------
+.classpath, code is 36, comment is 0, blank is 0.
+.factorypath, code is 34, comment is 0, blank is 0.
+.idea\.gitignore, code is 8, comment is 0, blank is 0.
+.idea\compiler.xml, code is 16, comment is 0, blank is 0.
+.idea\dataSources.local.xml, code is 23, comment is 0, blank is 0.
+.idea\dataSources.xml, code is 12, comment is 0, blank is 0.
+.idea\dataSources\ec47d907-321f-4947-a72a-cf11281a40e8.xml, code is 1683, comment is 0, blank is 0.
+.idea\dataSources\ec47d907-321f-4947-a72a-cf11281a40e8\storage_v2\_src_\schema\information_schema.FNRwLQ.meta, code is 2, comment is 0, blank is 0.
+.idea\dataSources\ec47d907-321f-4947-a72a-cf11281a40e8\storage_v2\_src_\schema\mysql.osA4Bg.meta, code is 2, comment is 0, blank is 0.
+.idea\dataSources\ec47d907-321f-4947-a72a-cf11281a40e8\storage_v2\_src_\schema\performance_schema.kIw0nw.meta, code is 2, comment is 0, blank is 0.
+.idea\dataSources\ec47d907-321f-4947-a72a-cf11281a40e8\storage_v2\_src_\schema\receipt_payment_app.4aQxkg.meta, code is 2, comment is 0, blank is 0.
+.idea\dataSources\ec47d907-321f-4947-a72a-cf11281a40e8\storage_v2\_src_\schema\sys.zb4BAA.meta, code is 2, comment is 0, blank is 0.
+.idea\dataSources\ec47d907-321f-4947-a72a-cf11281a40e8\storage_v2\_src_\schema\todolist.5IXPsg.meta, code is 2, comment is 0, blank is 0.
+.idea\jarRepositories.xml, code is 20, comment is 0, blank is 0.
+.idea\jsLibraryMappings.xml, code is 6, comment is 0, blank is 0.
+.idea\misc.xml, code is 11, comment is 0, blank is 0.
+.idea\sqldialects.xml, code is 7, comment is 0, blank is 0.
+.idea\uiDesigner.xml, code is 124, comment is 0, blank is 0.
+.idea\vcs.xml, code is 6, comment is 0, blank is 0.
+.idea\workspace.xml, code is 525, comment is 0, blank is 0.
+.metadata\.log, code is 43, comment is 0, blank is 6.
+.metadata\.plugins\com.genuitec.eclipse.devstyle\recent.json, code is 1, comment is 0, blank is 0.
+.metadata\.plugins\com.genuitec.eclipse.monitor\myeclipse-usage.properties, code is 61, comment is 0, blank is 0.
+.metadata\.plugins\com.genuitec.eclipse.ui.common.platform\color-definitions-fix.css, code is 216, comment is 0, blank is 2570.
+.metadata\.plugins\com.genuitec.eclipse.ui.common.platform\colors-org.eclipse.buildship.ui-1231266899.css, code is 4, comment is 0, blank is 0.
+.metadata\.plugins\com.genuitec.eclipse.ui.common.platform\colors-org.eclipse.egit.ui-1849137576.css, code is 10, comment is 28, blank is 5.
+.metadata\.plugins\com.genuitec.eclipse.ui.common.platform\colors-org.eclipse.epp.mpc.ui.css--1027399938.css, code is 49, comment is 1, blank is 9.
+.metadata\.plugins\com.genuitec.eclipse.ui.common.platform\colors-org.eclipse.jdt.ui-326703266.css, code is 21, comment is 22, blank is 7.
+.metadata\.plugins\com.genuitec.eclipse.ui.common.platform\splash-fix.css, code is 6, comment is 0, blank is 1.
+.metadata\.plugins\org.eclipse.core.resources\.projects\.org.eclipse.egit.core.cmp\.location, it is a binary file.
+.metadata\.plugins\org.eclipse.core.resources\.root\.indexes\history.version, code is 1, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.resources\.root\.indexes\properties.index, it is a binary file.
+.metadata\.plugins\org.eclipse.core.resources\.root\.indexes\properties.version, code is 1, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.resources\.root\1.tree, it is a binary file.
+.metadata\.plugins\org.eclipse.core.resources\.safetable\org.eclipse.core.resources, it is a binary file.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\ccw.core.prefs, code is 114, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\com.adobe.flexide.as.core.prefs, code is 72, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\com.adobe.flexide.css.core.prefs, code is 57, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\com.adobe.flexide.mxml.core.prefs, code is 37, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\com.axmor.eclipse.typescript.editor.prefs, code is 46, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\com.dubture.twig.ui.prefs, code is 16, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\com.genuitec.eclipse.codetogether.ui.prefs, code is 3, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\com.genuitec.eclipse.monitor.prefs, code is 2, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\com.genuitec.eclipse.sqlexplorer.prefs, code is 9, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\com.genuitec.eclipse.theming.ui.prefs, code is 9, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\com.github.eclipsecolortheme.prefs, code is 3, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\com.github.rustdt.ide.ui.prefs, code is 26, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\com.google.eclipse.protobuf.Protobuf.prefs, code is 38, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\com.googlecode.goclipse.ui.prefs, code is 13, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\com.palantir.typescript.prefs, code is 10, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\com.powerflasher.fdt.ui.prefs, code is 329, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\com.puppetlabs.geppetto.module.dsl.Module.prefs, code is 9, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\com.puppetlabs.geppetto.pp.dsl.PP.prefs, code is 27, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\com.spket.js.prefs, code is 17, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\com.spket.xml.prefs, code is 10, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\com.wolfram.eclipse.MEET.prefs, code is 17, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\de.walware.statet.base.ui.prefs, code is 3, comment is 4, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\de.walware.statet.r.ui.prefs, code is 132, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\Docker.prefs, code is 2, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\eclihx.ui.prefs, code is 19, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\jp.gr.java_conf.ussiy.app.propedit.prefs, code is 7, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\jsonedit-core.prefs, code is 6, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\net.sf.eclipsefp.haskell.ui.prefs, code is 17, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\net.sourceforge.texlipse.prefs, code is 16, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\net.vtst.ow.eclipse.less.Less.prefs, code is 17, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.apache.ivyde.eclipse.prefs, code is 7, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.cfeclipse.cfml.prefs, code is 30, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.chromium.debug.ui.prefs, code is 8, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.cloudsmith.geppetto.pp.dsl.PP.prefs, code is 27, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.codehaus.groovy.eclipse.ui.prefs, code is 129, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.dadacoalition.yedit.prefs, code is 12, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.angularjs.ui.prefs, code is 6, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ant.ui.prefs, code is 13, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.cdt.dsf.ui.prefs, code is 5, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.cdt.make.ui.prefs, code is 8, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.cdt.ui.prefs, code is 143, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.core.resources.prefs, code is 3, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.datatools.sqltools.sqleditor.prefs, code is 14, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.debug.ui.prefs, code is 11, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.dltk.ruby.ui.prefs, code is 118, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.dltk.tcl.ui.prefs, code is 88, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.e4.CSS.prefs, code is 12, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.e4.ui.css.swt.theme.prefs, code is 4, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.egit.core.prefs, code is 2, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.epp.mpc.ui.prefs, code is 3, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.jdt.ui.prefs, code is 7, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.jsch.core.prefs, code is 2, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.jst.jsp.ui.prefs, code is 11, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.m2e.apt.prefs, code is 3, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.m2e.discovery.prefs, code is 2, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.mylyn.wikitext.ui.prefs, code is 10, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.php.ui.prefs, code is 92, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.team.cvs.ui.prefs, code is 5, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.editors.prefs, code is 5, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.genericeditor.prefs, code is 3, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.ide.prefs, code is 4, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.workbench.prefs, code is 6, comment is 2, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.urischeme.prefs, code is 2, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.wst.css.ui.prefs, code is 23, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.wst.dtd.ui.prefs, code is 10, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.wst.html.ui.prefs, code is 16, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.wst.jsdt.ui.prefs, code is 40, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.wst.json.ui.prefs, code is 10, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.wst.sse.ui.prefs, code is 8, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.wst.xml.ui.prefs, code is 21, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.wst.xsl.ui.prefs, code is 6, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.xtend.core.Xtend.prefs, code is 16, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.epic.perleditor.prefs, code is 52, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.erlide.ui.prefs, code is 2, comment is 22, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.jboss.ide.eclipse.freemarker.prefs, code is 10, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.nodeclipse.enide.editors.gradle.prefs, code is 8, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.nodeclipse.enide.editors.jade.prefs, code is 8, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.python.pydev.prefs, code is 28, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.scala-ide.play2.prefs, code is 35, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.scala-ide.sdt.core.prefs, code is 77, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.sourceforge.jsonedit-core.prefs, code is 6, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.springframework.ide.eclipse.boot.dash.prefs, code is 2, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.springframework.ide.eclipse.imports.prefs, code is 2, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.springsource.ide.eclipse.commons.ui.prefs, code is 2, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\org.sweetlemonade.eclipse.json.prefs, code is 32, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.core.runtime\.settings\winterwell.markdown.prefs, code is 6, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.e4.workbench\workbench.xmi, code is 520, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.egit.core\.org.eclipse.egit.core.cmp\.project, code is 11, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.egit.core\.org.eclipse.egit.core.cmp\.settings\org.eclipse.core.resources.prefs, code is 2, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.jdt.core\assumedExternalFilesCache, code is 1, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.jdt.core\externalFilesCache, code is 1, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.jdt.core\javaLikeNames.txt, code is 1, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.jdt.core\nonChainingJarsCache, code is 1, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.jdt.core\variablesAndContainers.dat, it is a binary file.
+.metadata\.plugins\org.eclipse.jdt.ui\dialog_settings.xml, code is 10, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.jdt.ui\OpenTypeHistory.xml, code is 2, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.jdt.ui\QualifiedTypeNameHistory.xml, code is 2, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.jst.ws.jaxrs.ui\dialog_settings.xml, code is 3, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.m2e.core\workspaceState.ser, it is a binary file.
+.metadata\.plugins\org.eclipse.pde.core\.cache\clean-cache.properties, code is 2, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.tips.ide\dialog_settings.xml, code is 3, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.ui.ide\dialog_settings.xml, code is 12, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.ui.workbench\dialog_settings.xml, code is 3, comment is 0, blank is 0.
+.metadata\.plugins\org.eclipse.ui.workbench\workingsets.xml, code is 6, comment is 0, blank is 0.
+.metadata\defender.check, code is 0, comment is 0, blank is 0.
+.metadata\version.ini, code is 3, comment is 0, blank is 0.
+.project, code is 47, comment is 0, blank is 0.
+.settings\org.eclipse.jdt.apt.core.prefs, code is 4, comment is 0, blank is 0.
+.settings\org.eclipse.jdt.core.prefs, code is 12, comment is 0, blank is 0.
+.settings\org.eclipse.m2e.core.prefs, code is 4, comment is 0, blank is 0.
+.settings\org.eclipse.wst.common.component, code is 10, comment is 0, blank is 0.
+.settings\org.eclipse.wst.common.project.facet.core.xml, code is 5, comment is 0, blank is 0.
+.settings\org.eclipse.wst.validation.prefs, code is 2, comment is 0, blank is 0.
+database\todolist.sql, code is 76, comment is 30, blank is 25.
+database\users.sql, code is 20, comment is 0, blank is 0.
+database\view.sql, code is 8, comment is 0, blank is 0.
+database\work.sql, code is 19, comment is 2, blank is 0.
+pom.xml, code is 103, comment is 6, blank is 3.
+README.md, code is 24, comment is 1, blank is 14.
+src\application.properties, code is 8, comment is 1, blank is 1.
+src\com\se4f7\SWP\constants\Constants.java, code is 4, comment is 0, blank is 2.
+src\com\se4f7\SWP\constants\package-info.java, code is 1, comment is 0, blank is 0.
+src\com\se4f7\SWP\controller\AddController.java, code is 108, comment is 0, blank is 14.
+src\com\se4f7\SWP\controller\CheckOTPController.java, code is 37, comment is 0, blank is 7.
+src\com\se4f7\SWP\controller\CommentController.java, code is 78, comment is 0, blank is 11.
+src\com\se4f7\SWP\controller\ContactController.java, code is 35, comment is 0, blank is 8.
+src\com\se4f7\SWP\controller\DailyAmountServlet.java, code is 32, comment is 0, blank is 4.
+src\com\se4f7\SWP\controller\DeleteCMTController.java, code is 45, comment is 0, blank is 11.
+src\com\se4f7\SWP\controller\DeleteController.java, code is 60, comment is 0, blank is 9.
+src\com\se4f7\SWP\controller\EditController.java, code is 112, comment is 0, blank is 16.
+src\com\se4f7\SWP\controller\EditUserController.java, code is 44, comment is 0, blank is 14.
+src\com\se4f7\SWP\controller\ExcelController.java, code is 36, comment is 0, blank is 9.
+src\com\se4f7\SWP\controller\ForgetController.java, code is 56, comment is 0, blank is 14.
+src\com\se4f7\SWP\controller\LoadAll.java, code is 49, comment is 0, blank is 4.
+src\com\se4f7\SWP\controller\LoadController.java, code is 58, comment is 0, blank is 12.
+src\com\se4f7\SWP\controller\LoadDeleteController.java, code is 57, comment is 0, blank is 8.
+src\com\se4f7\SWP\controller\LoadFilterController.java, code is 57, comment is 0, blank is 9.
+src\com\se4f7\SWP\controller\LoadFilterDueController.java, code is 67, comment is 0, blank is 10.
+src\com\se4f7\SWP\controller\LoginController.java, code is 72, comment is 0, blank is 12.
+src\com\se4f7\SWP\controller\LogOutController.java, code is 32, comment is 0, blank is 6.
+src\com\se4f7\SWP\controller\package-info.java, code is 1, comment is 0, blank is 0.
+src\com\se4f7\SWP\controller\ProfileController.java, code is 33, comment is 0, blank is 12.
+src\com\se4f7\SWP\controller\RegisterController.java, code is 45, comment is 0, blank is 9.
+src\com\se4f7\SWP\controller\ResetPassController.java, code is 48, comment is 0, blank is 14.
+src\com\se4f7\SWP\controller\SearchByAjaxAdController.java, code is 77, comment is 0, blank is 16.
+src\com\se4f7\SWP\controller\SearchByAjaxController.java, code is 90, comment is 0, blank is 18.
+src\com\se4f7\SWP\controller\SearchController.java, code is 50, comment is 0, blank is 12.
+src\com\se4f7\SWP\controller\SearchNameUController.java, code is 43, comment is 0, blank is 13.
+src\com\se4f7\SWP\controller\SearchUByAjaxController.java, code is 63, comment is 0, blank is 13.
+src\com\se4f7\SWP\controller\SearchUserController.java, code is 33, comment is 0, blank is 12.
+src\com\se4f7\SWP\controller\TimeOutController.java, code is 39, comment is 0, blank is 12.
+src\com\se4f7\SWP\controller\UploadFileController.java, code is 55, comment is 3, blank is 14.
+src\com\se4f7\SWP\controller\UserDataController.java, code is 52, comment is 0, blank is 11.
+src\com\se4f7\SWP\controller\UserFilterController.java, code is 34, comment is 0, blank is 10.
+src\com\se4f7\SWP\controller\UserFilterPriorityController.java, code is 45, comment is 0, blank is 9.
+src\com\se4f7\SWP\controller\UserFilterRoleController.java, code is 34, comment is 0, blank is 11.
+src\com\se4f7\SWP\controller\UserManagerController.java, code is 45, comment is 0, blank is 12.
+src\com\se4f7\SWP\controller\ViewCMTController.java, code is 31, comment is 0, blank is 10.
+src\com\se4f7\SWP\dto\request\LoginRequestDto.java, code is 25, comment is 0, blank is 9.
+src\com\se4f7\SWP\dto\request\package-info.java, code is 1, comment is 0, blank is 0.
+src\com\se4f7\SWP\dto\request\RegisterRequestDto.java, code is 48, comment is 0, blank is 15.
+src\com\se4f7\SWP\dto\response\LoginResponseDto.java, code is 41, comment is 0, blank is 14.
+src\com\se4f7\SWP\dto\response\package-info.java, code is 1, comment is 0, blank is 0.
+src\com\se4f7\SWP\dto\response\UserResponseDto.java, code is 55, comment is 0, blank is 18.
+src\com\se4f7\SWP\entities\BaseEntity.java, code is 54, comment is 0, blank is 17.
+src\com\se4f7\SWP\entities\CommentEntity.java, code is 55, comment is 0, blank is 17.
+src\com\se4f7\SWP\entities\CouponEntity.java, code is 68, comment is 0, blank is 19.
+src\com\se4f7\SWP\entities\Graph.java, code is 39, comment is 0, blank is 10.
+src\com\se4f7\SWP\entities\package-info.java, code is 1, comment is 0, blank is 0.
+src\com\se4f7\SWP\entities\UserEntity.java, code is 71, comment is 7, blank is 27.
+src\com\se4f7\SWP\enums\package-info.java, code is 1, comment is 0, blank is 0.
+src\com\se4f7\SWP\enums\UserStatus.java, code is 4, comment is 0, blank is 1.
+src\com\se4f7\SWP\filter\AdminFilter.java, code is 32, comment is 0, blank is 8.
+src\com\se4f7\SWP\filter\LoginFilter.java, code is 32, comment is 0, blank is 8.
+src\com\se4f7\SWP\package-info.java, code is 1, comment is 0, blank is 0.
+src\com\se4f7\SWP\repository\CommentRepository.java, code is 89, comment is 0, blank is 13.
+src\com\se4f7\SWP\repository\package-info.java, code is 1, comment is 0, blank is 0.
+src\com\se4f7\SWP\repository\ReceiptPaymentRepositorys.java, code is 492, comment is 1, blank is 55.
+src\com\se4f7\SWP\repository\UserRepository.java, code is 400, comment is 0, blank is 53.
+src\com\se4f7\SWP\repository\ViewRepository.java, code is 28, comment is 0, blank is 7.
+src\com\se4f7\SWP\service\AuthService.java, code is 35, comment is 0, blank is 24.
+src\com\se4f7\SWP\service\CommentService.java, code is 9, comment is 0, blank is 8.
+src\com\se4f7\SWP\service\CouponService.java, code is 34, comment is 0, blank is 28.
+src\com\se4f7\SWP\service\impl\AuthServiceImpl.java, code is 271, comment is 0, blank is 35.
+src\com\se4f7\SWP\service\impl\CommentServiceImpl.java, code is 48, comment is 0, blank is 8.
+src\com\se4f7\SWP\service\impl\CouponServiceImpl.java, code is 235, comment is 0, blank is 28.
+src\com\se4f7\SWP\service\impl\package-info.java, code is 1, comment is 0, blank is 0.
+src\com\se4f7\SWP\service\impl\ViewServiceImpl.java, code is 19, comment is 0, blank is 6.
+src\com\se4f7\SWP\service\package-info.java, code is 1, comment is 0, blank is 0.
+src\com\se4f7\SWP\service\ViewService.java, code is 5, comment is 0, blank is 3.
+src\com\se4f7\SWP\utils\DBUtil.java, code is 82, comment is 0, blank is 13.
+src\com\se4f7\SWP\utils\JavaMailUtil.java, code is 52, comment is 22, blank is 20.
+src\com\se4f7\SWP\utils\MailMessage.java, code is 38, comment is 0, blank is 7.
+src\com\se4f7\SWP\utils\package-info.java, code is 1, comment is 0, blank is 0.
+src\com\se4f7\SWP\utils\ReadFromExcelFile.java, code is 59, comment is 2, blank is 14.
+target\classes\application.properties, code is 8, comment is 1, blank is 1.
+target\classes\com\se4f7\SWP\constants\Constants.class, it is a binary file.
+target\classes\com\se4f7\SWP\constants\package-info.class, it is a binary file.
+target\classes\com\se4f7\SWP\controller\AddController.class, it is a binary file.
+target\classes\com\se4f7\SWP\controller\CheckOTPController.class, it is a binary file.
+target\classes\com\se4f7\SWP\controller\CommentController.class, it is a binary file.
+target\classes\com\se4f7\SWP\controller\ContactController.class, it is a binary file.
+target\classes\com\se4f7\SWP\controller\DailyAmountServlet.class, it is a binary file.
+target\classes\com\se4f7\SWP\controller\DeleteCMTController.class, it is a binary file.
+target\classes\com\se4f7\SWP\controller\DeleteController.class, it is a binary file.
+target\classes\com\se4f7\SWP\controller\EditController.class, it is a binary file.
+target\classes\com\se4f7\SWP\controller\EditUserController.class, it is a binary file.
+target\classes\com\se4f7\SWP\controller\ExcelController.class, it is a binary file.
+target\classes\com\se4f7\SWP\controller\ForgetController.class, it is a binary file.
+target\classes\com\se4f7\SWP\controller\LoadAll.class, it is a binary file.
+target\classes\com\se4f7\SWP\controller\LoadController.class, it is a binary file.
+target\classes\com\se4f7\SWP\controller\LoadDeleteController.class, it is a binary file.
+target\classes\com\se4f7\SWP\controller\LoadFilterController.class, it is a binary file.
+target\classes\com\se4f7\SWP\controller\LoadFilterDueController.class, it is a binary file.
+target\classes\com\se4f7\SWP\controller\LoginController.class, it is a binary file.
+target\classes\com\se4f7\SWP\controller\LogOutController.class, it is a binary file.
+target\classes\com\se4f7\SWP\controller\package-info.class, it is a binary file.
+target\classes\com\se4f7\SWP\controller\ProfileController.class, it is a binary file.
+target\classes\com\se4f7\SWP\controller\RegisterController.class, it is a binary file.
+target\classes\com\se4f7\SWP\controller\ResetPassController.class, it is a binary file.
+target\classes\com\se4f7\SWP\controller\SearchByAjaxAdController.class, it is a binary file.
+target\classes\com\se4f7\SWP\controller\SearchByAjaxController.class, it is a binary file.
+target\classes\com\se4f7\SWP\controller\SearchController.class, it is a binary file.
+target\classes\com\se4f7\SWP\controller\SearchNameUController.class, it is a binary file.
+target\classes\com\se4f7\SWP\controller\SearchUByAjaxController.class, it is a binary file.
+target\classes\com\se4f7\SWP\controller\SearchUserController.class, it is a binary file.
+target\classes\com\se4f7\SWP\controller\TimeOutController.class, it is a binary file.
+target\classes\com\se4f7\SWP\controller\UploadFileController.class, it is a binary file.
+target\classes\com\se4f7\SWP\controller\UserDataController.class, it is a binary file.
+target\classes\com\se4f7\SWP\controller\UserFilterController.class, it is a binary file.
+target\classes\com\se4f7\SWP\controller\UserFilterPriorityController.class, it is a binary file.
+target\classes\com\se4f7\SWP\controller\UserFilterRoleController.class, it is a binary file.
+target\classes\com\se4f7\SWP\controller\UserManagerController.class, it is a binary file.
+target\classes\com\se4f7\SWP\controller\ViewCMTController.class, it is a binary file.
+target\classes\com\se4f7\SWP\dto\request\LoginRequestDto.class, it is a binary file.
+target\classes\com\se4f7\SWP\dto\request\package-info.class, it is a binary file.
+target\classes\com\se4f7\SWP\dto\request\RegisterRequestDto.class, it is a binary file.
+target\classes\com\se4f7\SWP\dto\response\LoginResponseDto.class, it is a binary file.
+target\classes\com\se4f7\SWP\dto\response\package-info.class, it is a binary file.
+target\classes\com\se4f7\SWP\dto\response\UserResponseDto.class, it is a binary file.
+target\classes\com\se4f7\SWP\entities\BaseEntity.class, it is a binary file.
+target\classes\com\se4f7\SWP\entities\CommentEntity.class, it is a binary file.
+target\classes\com\se4f7\SWP\entities\CouponEntity.class, it is a binary file.
+target\classes\com\se4f7\SWP\entities\Graph.class, it is a binary file.
+target\classes\com\se4f7\SWP\entities\package-info.class, it is a binary file.
+target\classes\com\se4f7\SWP\entities\UserEntity.class, it is a binary file.
+target\classes\com\se4f7\SWP\enums\package-info.class, it is a binary file.
+target\classes\com\se4f7\SWP\enums\UserStatus.class, it is a binary file.
+target\classes\com\se4f7\SWP\filter\AdminFilter.class, it is a binary file.
+target\classes\com\se4f7\SWP\filter\LoginFilter.class, it is a binary file.
+target\classes\com\se4f7\SWP\package-info.class, it is a binary file.
+target\classes\com\se4f7\SWP\repository\CommentRepository.class, it is a binary file.
+target\classes\com\se4f7\SWP\repository\package-info.class, it is a binary file.
+target\classes\com\se4f7\SWP\repository\ReceiptPaymentRepositorys.class, it is a binary file.
+target\classes\com\se4f7\SWP\repository\UserRepository.class, it is a binary file.
+target\classes\com\se4f7\SWP\repository\ViewRepository.class, it is a binary file.
+target\classes\com\se4f7\SWP\service\AuthService.class, it is a binary file.
+target\classes\com\se4f7\SWP\service\CommentService.class, it is a binary file.
+target\classes\com\se4f7\SWP\service\CouponService.class, it is a binary file.
+target\classes\com\se4f7\SWP\service\impl\AuthServiceImpl.class, it is a binary file.
+target\classes\com\se4f7\SWP\service\impl\CommentServiceImpl.class, it is a binary file.
+target\classes\com\se4f7\SWP\service\impl\CouponServiceImpl.class, it is a binary file.
+target\classes\com\se4f7\SWP\service\impl\package-info.class, it is a binary file.
+target\classes\com\se4f7\SWP\service\impl\ViewServiceImpl.class, it is a binary file.
+target\classes\com\se4f7\SWP\service\package-info.class, it is a binary file.
+target\classes\com\se4f7\SWP\service\ViewService.class, it is a binary file.
+target\classes\com\se4f7\SWP\utils\DBUtil.class, it is a binary file.
+target\classes\com\se4f7\SWP\utils\JavaMailUtil$1.class, it is a binary file.
+target\classes\com\se4f7\SWP\utils\JavaMailUtil.class, it is a binary file.
+target\classes\com\se4f7\SWP\utils\MailMessage.class, it is a binary file.
+target\classes\com\se4f7\SWP\utils\package-info.class, it is a binary file.
+target\classes\com\se4f7\SWP\utils\ReadFromExcelFile.class, it is a binary file.
+target\maven-archiver\pom.properties, code is 3, comment is 0, blank is 0.
+target\maven-status\maven-compiler-plugin\compile\default-compile\createdFiles.lst, code is 61, comment is 0, blank is 0.
+target\maven-status\maven-compiler-plugin\compile\default-compile\inputFiles.lst, code is 71, comment is 0, blank is 0.
+target\todo-app-1.0.0.war, it is a binary file.
+target\todo-app-1.0.0\add.jsp, code is 125, comment is 0, blank is 20.
+target\todo-app-1.0.0\admin-filter.jsp, code is 315, comment is 0, blank is 33.
+target\todo-app-1.0.0\admin-graph.jsp, code is 179, comment is 0, blank is 12.
+target\todo-app-1.0.0\admin.jsp, code is 240, comment is 0, blank is 8.
+target\todo-app-1.0.0\assets\favicon.ico, it is a binary file.
+target\todo-app-1.0.0\assets\img\bg-masthead.jpg, it is a binary file.
+target\todo-app-1.0.0\assets\img\portfolio\fullsize\1.jpg, it is a binary file.
+target\todo-app-1.0.0\assets\img\portfolio\fullsize\2.jpg, it is a binary file.
+target\todo-app-1.0.0\assets\img\portfolio\fullsize\3.jpg, it is a binary file.
+target\todo-app-1.0.0\assets\img\portfolio\fullsize\4.jpg, it is a binary file.
+target\todo-app-1.0.0\assets\img\portfolio\fullsize\5.jpg, it is a binary file.
+target\todo-app-1.0.0\assets\img\portfolio\fullsize\6.jpg, it is a binary file.
+target\todo-app-1.0.0\assets\img\portfolio\thumbnails\1.jpg, it is a binary file.
+target\todo-app-1.0.0\assets\img\portfolio\thumbnails\2.jpg, it is a binary file.
+target\todo-app-1.0.0\assets\img\portfolio\thumbnails\3.jpg, it is a binary file.
+target\todo-app-1.0.0\assets\img\portfolio\thumbnails\4.jpg, it is a binary file.
+target\todo-app-1.0.0\assets\img\portfolio\thumbnails\5.jpg, it is a binary file.
+target\todo-app-1.0.0\assets\img\portfolio\thumbnails\6.jpg, it is a binary file.
+target\todo-app-1.0.0\checkotp.jsp, code is 49, comment is 0, blank is 3.
+target\todo-app-1.0.0\comments.jsp, code is 138, comment is 0, blank is 6.
+target\todo-app-1.0.0\Contact.jsp, code is 42, comment is 0, blank is 0.
+target\todo-app-1.0.0\css\bootstrap.css, code is 8892, comment is 6, blank is 0.
+target\todo-app-1.0.0\css\comment.css, code is 14, comment is 0, blank is 0.
+target\todo-app-1.0.0\css\index.css, code is 145, comment is 0, blank is 3.
+target\todo-app-1.0.0\css\login-style.css, code is 14, comment is 0, blank is 2.
+target\todo-app-1.0.0\css\mdb.dark.min.css, code is 14784, comment is 23, blank is 0.
+target\todo-app-1.0.0\css\mdb.dark.min.css.map, code is 1, comment is 0, blank is 0.
+target\todo-app-1.0.0\css\mdb.dark.rtl.min.css, code is 2, comment is 10, blank is 0.
+target\todo-app-1.0.0\css\mdb.dark.rtl.min.css.map, code is 1, comment is 0, blank is 0.
+target\todo-app-1.0.0\css\mdb.min.css, code is 14275, comment is 41, blank is 0.
+target\todo-app-1.0.0\css\mdb.min.css.map, code is 1, comment is 0, blank is 0.
+target\todo-app-1.0.0\css\mdb.rtl.min.css, code is 2, comment is 10, blank is 0.
+target\todo-app-1.0.0\css\mdb.rtl.min.css.map, code is 1, comment is 0, blank is 0.
+target\todo-app-1.0.0\css\nav.css, code is 12, comment is 0, blank is 1.
+target\todo-app-1.0.0\css\navbar.css, code is 11, comment is 0, blank is 2.
+target\todo-app-1.0.0\css\register.css, code is 23, comment is 0, blank is 0.
+target\todo-app-1.0.0\css\search.css, code is 32, comment is 0, blank is 1.
+target\todo-app-1.0.0\css\styles.css, code is 10208, comment is 37, blank is 750.
+target\todo-app-1.0.0\error.jsp, code is 42, comment is 0, blank is 2.
+target\todo-app-1.0.0\footer.jsp, code is 19, comment is 0, blank is 0.
+target\todo-app-1.0.0\forget.jsp, code is 46, comment is 0, blank is 4.
+target\todo-app-1.0.0\header.jsp, code is 16, comment is 0, blank is 2.
+target\todo-app-1.0.0\image\carousel-image1.jpg, it is a binary file.
+target\todo-app-1.0.0\image\error.png, it is a binary file.
+target\todo-app-1.0.0\image\feature-image1.jpg, it is a binary file.
+target\todo-app-1.0.0\image\feature-image2.png, it is a binary file.
+target\todo-app-1.0.0\image\feature-image3.jpg, it is a binary file.
+target\todo-app-1.0.0\images (3).jfif, it is a binary file.
+target\todo-app-1.0.0\import-success.jsp, code is 48, comment is 0, blank is 3.
+target\todo-app-1.0.0\index.jsp, code is 55, comment is 0, blank is 6.
+target\todo-app-1.0.0\IsDelete_manament.jsp, code is 229, comment is 0, blank is 8.
+target\todo-app-1.0.0\JS.jsp, code is 12, comment is 0, blank is 0.
+target\todo-app-1.0.0\js\comment.js, code is 16, comment is 0, blank is 0.
+target\todo-app-1.0.0\js\deleted.js, code is 76, comment is 0, blank is 1.
+target\todo-app-1.0.0\js\filter.js, code is 18, comment is 0, blank is 8.
+target\todo-app-1.0.0\js\handle.js, code is 6, comment is 0, blank is 2.
+target\todo-app-1.0.0\js\main.js, code is 9, comment is 0, blank is 11.
+target\todo-app-1.0.0\js\mdb.min.js, code is 1, comment is 19, blank is 0.
+target\todo-app-1.0.0\js\mdb.min.js.map, code is 1, comment is 0, blank is 0.
+target\todo-app-1.0.0\js\popper.js, code is 1, comment is 4, blank is 1.
+target\todo-app-1.0.0\js\scripts.js, code is 36, comment is 6, blank is 9.
+target\todo-app-1.0.0\js\search.js, code is 48, comment is 0, blank is 1.
+target\todo-app-1.0.0\js\tinymce\icons\default\icons.min.js, code is 1, comment is 0, blank is 0.
+target\todo-app-1.0.0\js\tinymce\langs\README.md, code is 2, comment is 1, blank is 1.
+target\todo-app-1.0.0\js\tinymce\license.txt, code is 17, comment is 0, blank is 4.
+target\todo-app-1.0.0\js\tinymce\models\dom\model.min.js, code is 1, comment is 3, blank is 0.
+target\todo-app-1.0.0\js\tinymce\plugins\advlist\plugin.min.js, code is 1, comment is 3, blank is 0.
+target\todo-app-1.0.0\js\tinymce\plugins\anchor\plugin.min.js, code is 1, comment is 3, blank is 0.
+target\todo-app-1.0.0\js\tinymce\plugins\autolink\plugin.min.js, code is 1, comment is 3, blank is 0.
+target\todo-app-1.0.0\js\tinymce\plugins\autoresize\plugin.min.js, code is 1, comment is 3, blank is 0.
+target\todo-app-1.0.0\js\tinymce\plugins\autosave\plugin.min.js, code is 1, comment is 3, blank is 0.
+target\todo-app-1.0.0\js\tinymce\plugins\charmap\plugin.min.js, code is 1, comment is 3, blank is 0.
+target\todo-app-1.0.0\js\tinymce\plugins\code\plugin.min.js, code is 1, comment is 3, blank is 0.
+target\todo-app-1.0.0\js\tinymce\plugins\codesample\plugin.min.js, code is 1, comment is 4, blank is 0.
+target\todo-app-1.0.0\js\tinymce\plugins\directionality\plugin.min.js, code is 1, comment is 3, blank is 0.
+target\todo-app-1.0.0\js\tinymce\plugins\emoticons\js\emojiimages.js, code is 1, comment is 0, blank is 0.
+target\todo-app-1.0.0\js\tinymce\plugins\emoticons\js\emojiimages.min.js, code is 1, comment is 2, blank is 0.
+target\todo-app-1.0.0\js\tinymce\plugins\emoticons\js\emojis.js, code is 1, comment is 0, blank is 0.
+target\todo-app-1.0.0\js\tinymce\plugins\emoticons\js\emojis.min.js, code is 1, comment is 1, blank is 0.
+target\todo-app-1.0.0\js\tinymce\plugins\emoticons\plugin.min.js, code is 1, comment is 3, blank is 0.
+target\todo-app-1.0.0\js\tinymce\plugins\fullscreen\plugin.min.js, code is 1, comment is 3, blank is 0.
+target\todo-app-1.0.0\js\tinymce\plugins\help\plugin.min.js, code is 1, comment is 4, blank is 0.
+target\todo-app-1.0.0\js\tinymce\plugins\image\plugin.min.js, code is 1, comment is 4, blank is 0.
+target\todo-app-1.0.0\js\tinymce\plugins\importcss\plugin.min.js, code is 1, comment is 3, blank is 0.
+target\todo-app-1.0.0\js\tinymce\plugins\insertdatetime\plugin.min.js, code is 1, comment is 3, blank is 0.
+target\todo-app-1.0.0\js\tinymce\plugins\link\plugin.min.js, code is 1, comment is 4, blank is 0.
+target\todo-app-1.0.0\js\tinymce\plugins\lists\plugin.min.js, code is 1, comment is 3, blank is 0.
+target\todo-app-1.0.0\js\tinymce\plugins\media\plugin.min.js, code is 1, comment is 3, blank is 0.
+target\todo-app-1.0.0\js\tinymce\plugins\nonbreaking\plugin.min.js, code is 1, comment is 3, blank is 0.
+target\todo-app-1.0.0\js\tinymce\plugins\pagebreak\plugin.min.js, code is 1, comment is 3, blank is 0.
+target\todo-app-1.0.0\js\tinymce\plugins\preview\plugin.min.js, code is 1, comment is 3, blank is 0.
+target\todo-app-1.0.0\js\tinymce\plugins\quickbars\plugin.min.js, code is 1, comment is 3, blank is 0.
+target\todo-app-1.0.0\js\tinymce\plugins\save\plugin.min.js, code is 1, comment is 3, blank is 0.
+target\todo-app-1.0.0\js\tinymce\plugins\searchreplace\plugin.min.js, code is 1, comment is 3, blank is 0.
+target\todo-app-1.0.0\js\tinymce\plugins\table\plugin.min.js, code is 1, comment is 3, blank is 0.
+target\todo-app-1.0.0\js\tinymce\plugins\template\plugin.min.js, code is 1, comment is 3, blank is 0.
+target\todo-app-1.0.0\js\tinymce\plugins\visualblocks\plugin.min.js, code is 1, comment is 3, blank is 0.
+target\todo-app-1.0.0\js\tinymce\plugins\visualchars\plugin.min.js, code is 1, comment is 3, blank is 0.
+target\todo-app-1.0.0\js\tinymce\plugins\wordcount\plugin.min.js, code is 1, comment is 3, blank is 0.
+target\todo-app-1.0.0\js\tinymce\skins\content\dark\content.min.css, code is 1, comment is 0, blank is 0.
+target\todo-app-1.0.0\js\tinymce\skins\content\default\content.min.css, code is 1, comment is 0, blank is 0.
+target\todo-app-1.0.0\js\tinymce\skins\content\document\content.min.css, code is 1, comment is 0, blank is 0.
+target\todo-app-1.0.0\js\tinymce\skins\content\tinymce-5-dark\content.min.css, code is 1, comment is 0, blank is 0.
+target\todo-app-1.0.0\js\tinymce\skins\content\tinymce-5\content.min.css, code is 1, comment is 0, blank is 0.
+target\todo-app-1.0.0\js\tinymce\skins\content\writer\content.min.css, code is 1, comment is 0, blank is 0.
+target\todo-app-1.0.0\js\tinymce\skins\ui\oxide-dark\content.inline.min.css, code is 1, comment is 1, blank is 0.
+target\todo-app-1.0.0\js\tinymce\skins\ui\oxide-dark\content.min.css, code is 1, comment is 1, blank is 0.
+target\todo-app-1.0.0\js\tinymce\skins\ui\oxide-dark\skin.min.css, code is 1, comment is 1, blank is 0.
+target\todo-app-1.0.0\js\tinymce\skins\ui\oxide-dark\skin.shadowdom.min.css, code is 1, comment is 0, blank is 0.
+target\todo-app-1.0.0\js\tinymce\skins\ui\oxide\content.inline.min.css, code is 1, comment is 1, blank is 0.
+target\todo-app-1.0.0\js\tinymce\skins\ui\oxide\content.min.css, code is 1, comment is 1, blank is 0.
+target\todo-app-1.0.0\js\tinymce\skins\ui\oxide\skin.min.css, code is 1, comment is 1, blank is 0.
+target\todo-app-1.0.0\js\tinymce\skins\ui\oxide\skin.shadowdom.min.css, code is 1, comment is 0, blank is 0.
+target\todo-app-1.0.0\js\tinymce\skins\ui\tinymce-5-dark\content.inline.min.css, code is 1, comment is 1, blank is 0.
+target\todo-app-1.0.0\js\tinymce\skins\ui\tinymce-5-dark\content.min.css, code is 1, comment is 1, blank is 0.
+target\todo-app-1.0.0\js\tinymce\skins\ui\tinymce-5-dark\skin.min.css, code is 1, comment is 1, blank is 0.
+target\todo-app-1.0.0\js\tinymce\skins\ui\tinymce-5-dark\skin.shadowdom.min.css, code is 1, comment is 0, blank is 0.
+target\todo-app-1.0.0\js\tinymce\skins\ui\tinymce-5\content.inline.min.css, code is 1, comment is 1, blank is 0.
+target\todo-app-1.0.0\js\tinymce\skins\ui\tinymce-5\content.min.css, code is 1, comment is 1, blank is 0.
+target\todo-app-1.0.0\js\tinymce\skins\ui\tinymce-5\skin.min.css, code is 1, comment is 1, blank is 0.
+target\todo-app-1.0.0\js\tinymce\skins\ui\tinymce-5\skin.shadowdom.min.css, code is 1, comment is 0, blank is 0.
+target\todo-app-1.0.0\js\tinymce\themes\silver\theme.min.js, code is 1, comment is 4, blank is 0.
+target\todo-app-1.0.0\js\tinymce\tinymce.d.ts, code is 3071, comment is 0, blank is 0.
+target\todo-app-1.0.0\js\tinymce\tinymce.min.js, code is 1, comment is 1, blank is 1.
+target\todo-app-1.0.0\js\validation.js, code is 125, comment is 10, blank is 37.
+target\todo-app-1.0.0\login.jsp, code is 103, comment is 0, blank is 16.
+target\todo-app-1.0.0\META-INF\context.xml, code is 2, comment is 0, blank is 0.
+target\todo-app-1.0.0\META-INF\MANIFEST.MF, code is 4, comment is 0, blank is 1.
+target\todo-app-1.0.0\navbar.jsp, code is 73, comment is 0, blank is 6.
+target\todo-app-1.0.0\profile.jsp, code is 102, comment is 0, blank is 10.
+target\todo-app-1.0.0\register.jsp, code is 173, comment is 6, blank is 20.
+target\todo-app-1.0.0\report.jsp, code is 12, comment is 0, blank is 0.
+target\todo-app-1.0.0\reset-password.jsp, code is 52, comment is 0, blank is 5.
+target\todo-app-1.0.0\text.jsp, code is 160, comment is 0, blank is 5.
+target\todo-app-1.0.0\todo (1).xlsx, it is a binary file.
+target\todo-app-1.0.0\todo.xlsx, it is a binary file.
+target\todo-app-1.0.0\totalRole.jsp, code is 161, comment is 0, blank is 16.
+target\todo-app-1.0.0\update-user.jsp, code is 74, comment is 0, blank is 7.
+target\todo-app-1.0.0\update.jsp, code is 128, comment is 0, blank is 17.
+target\todo-app-1.0.0\user-manager-filter.jsp, code is 206, comment is 0, blank is 11.
+target\todo-app-1.0.0\user-manager.jsp, code is 230, comment is 0, blank is 14.
+target\todo-app-1.0.0\user-priority-filter.jsp, code is 253, comment is 0, blank is 16.
+target\todo-app-1.0.0\user.jsp, code is 267, comment is 0, blank is 17.
+target\todo-app-1.0.0\view-cmt.jsp, code is 96, comment is 0, blank is 4.
+target\todo-app-1.0.0\WEB-INF\classes\application.properties, code is 8, comment is 1, blank is 1.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\constants\Constants.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\controller\AddController.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\controller\CheckOTPController.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\controller\CommentController.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\controller\ContactController.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\controller\DailyAmountServlet.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\controller\DeleteCMTController.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\controller\DeleteController.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\controller\EditController.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\controller\EditUserController.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\controller\ExcelController.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\controller\ForgetController.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\controller\LoadAll.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\controller\LoadController.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\controller\LoadDeleteController.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\controller\LoadFilterController.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\controller\LoadFilterDueController.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\controller\LoginController.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\controller\LogOutController.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\controller\ProfileController.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\controller\RegisterController.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\controller\ResetPassController.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\controller\SearchByAjaxAdController.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\controller\SearchByAjaxController.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\controller\SearchController.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\controller\SearchNameUController.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\controller\SearchUByAjaxController.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\controller\SearchUserController.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\controller\TimeOutController.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\controller\UploadFileController.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\controller\UserDataController.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\controller\UserFilterController.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\controller\UserFilterPriorityController.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\controller\UserFilterRoleController.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\controller\UserManagerController.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\controller\ViewCMTController.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\dto\request\LoginRequestDto.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\dto\request\RegisterRequestDto.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\dto\response\LoginResponseDto.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\dto\response\UserResponseDto.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\entities\BaseEntity.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\entities\CommentEntity.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\entities\CouponEntity.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\entities\Graph.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\entities\UserEntity.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\enums\UserStatus.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\filter\AdminFilter.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\filter\LoginFilter.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\repository\CommentRepository.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\repository\ReceiptPaymentRepositorys.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\repository\UserRepository.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\repository\ViewRepository.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\service\AuthService.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\service\CommentService.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\service\CouponService.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\service\impl\AuthServiceImpl.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\service\impl\CommentServiceImpl.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\service\impl\CouponServiceImpl.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\service\impl\ViewServiceImpl.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\service\ViewService.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\utils\DBUtil.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\utils\JavaMailUtil$1.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\utils\JavaMailUtil.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\utils\MailMessage.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\classes\com\se4f7\SWP\utils\ReadFromExcelFile.class, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\lib\caffeine-2.9.3.jar, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\lib\checker-qual-3.32.0.jar, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\lib\commons-codec-1.15.jar, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\lib\commons-collections4-4.4.jar, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\lib\commons-compress-1.21.jar, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\lib\commons-io-2.11.0.jar, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\lib\commons-math3-3.6.1.jar, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\lib\curvesapi-1.06.jar, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\lib\error_prone_annotations-2.10.0.jar, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\lib\jakarta.activation-2.0.1.jar, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\lib\jakarta.activation-api-2.1.1.jar, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\lib\jakarta.mail-2.0.1.jar, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\lib\jakarta.mail-api-2.1.1.jar, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\lib\javax.servlet-api-3.1.0.jar, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\lib\jbcrypt-0.4.jar, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\lib\jcl-over-slf4j-2.0.7.jar, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\lib\jna-5.13.0.jar, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\lib\jna-platform-5.13.0.jar, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\lib\jstl-1.2.jar, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\lib\log4j-api-2.17.1.jar, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\lib\log4j-core-2.14.1.jar, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\lib\mariadb-java-client-3.3.0.jar, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\lib\poi-5.2.0.jar, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\lib\poi-ooxml-5.2.0.jar, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\lib\poi-ooxml-lite-5.2.0.jar, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\lib\slf4j-api-2.0.7.jar, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\lib\SparseBitSet-1.2.jar, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\lib\standard-1.1.2.jar, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\lib\waffle-jna-3.3.0.jar, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\lib\xml-apis-1.4.01.jar, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\lib\xmlbeans-5.0.3.jar, it is a binary file.
+target\todo-app-1.0.0\WEB-INF\web.xml, code is 317, comment is 0, blank is 0.
+WebContent\add.jsp, code is 125, comment is 0, blank is 20.
+WebContent\admin-filter.jsp, code is 315, comment is 0, blank is 33.
+WebContent\admin-graph.jsp, code is 179, comment is 0, blank is 12.
+WebContent\admin.jsp, code is 240, comment is 0, blank is 8.
+WebContent\assets\favicon.ico, it is a binary file.
+WebContent\assets\img\bg-masthead.jpg, it is a binary file.
+WebContent\assets\img\portfolio\fullsize\1.jpg, it is a binary file.
+WebContent\assets\img\portfolio\fullsize\2.jpg, it is a binary file.
+WebContent\assets\img\portfolio\fullsize\3.jpg, it is a binary file.
+WebContent\assets\img\portfolio\fullsize\4.jpg, it is a binary file.
+WebContent\assets\img\portfolio\fullsize\5.jpg, it is a binary file.
+WebContent\assets\img\portfolio\fullsize\6.jpg, it is a binary file.
+WebContent\assets\img\portfolio\thumbnails\1.jpg, it is a binary file.
+WebContent\assets\img\portfolio\thumbnails\2.jpg, it is a binary file.
+WebContent\assets\img\portfolio\thumbnails\3.jpg, it is a binary file.
+WebContent\assets\img\portfolio\thumbnails\4.jpg, it is a binary file.
+WebContent\assets\img\portfolio\thumbnails\5.jpg, it is a binary file.
+WebContent\assets\img\portfolio\thumbnails\6.jpg, it is a binary file.
+WebContent\checkotp.jsp, code is 49, comment is 0, blank is 3.
+WebContent\comments.jsp, code is 138, comment is 0, blank is 6.
+WebContent\Contact.jsp, code is 42, comment is 0, blank is 0.
+WebContent\css\bootstrap.css, code is 8892, comment is 6, blank is 0.
+WebContent\css\comment.css, code is 14, comment is 0, blank is 0.
+WebContent\css\index.css, code is 145, comment is 0, blank is 3.
+WebContent\css\login-style.css, code is 14, comment is 0, blank is 2.
+WebContent\css\mdb.dark.min.css, code is 14784, comment is 23, blank is 0.
+WebContent\css\mdb.dark.min.css.map, code is 1, comment is 0, blank is 0.
+WebContent\css\mdb.dark.rtl.min.css, code is 2, comment is 10, blank is 0.
+WebContent\css\mdb.dark.rtl.min.css.map, code is 1, comment is 0, blank is 0.
+WebContent\css\mdb.min.css, code is 14275, comment is 41, blank is 0.
+WebContent\css\mdb.min.css.map, code is 1, comment is 0, blank is 0.
+WebContent\css\mdb.rtl.min.css, code is 2, comment is 10, blank is 0.
+WebContent\css\mdb.rtl.min.css.map, code is 1, comment is 0, blank is 0.
+WebContent\css\nav.css, code is 12, comment is 0, blank is 1.
+WebContent\css\navbar.css, code is 11, comment is 0, blank is 2.
+WebContent\css\register.css, code is 23, comment is 0, blank is 0.
+WebContent\css\search.css, code is 32, comment is 0, blank is 1.
+WebContent\css\styles.css, code is 10208, comment is 37, blank is 750.
+WebContent\error.jsp, code is 42, comment is 0, blank is 2.
+WebContent\footer.jsp, code is 19, comment is 0, blank is 0.
+WebContent\forget.jsp, code is 46, comment is 0, blank is 4.
+WebContent\header.jsp, code is 16, comment is 0, blank is 2.
+WebContent\image\carousel-image1.jpg, it is a binary file.
+WebContent\image\error.png, it is a binary file.
+WebContent\image\feature-image1.jpg, it is a binary file.
+WebContent\image\feature-image2.png, it is a binary file.
+WebContent\image\feature-image3.jpg, it is a binary file.
+WebContent\import-success.jsp, code is 48, comment is 0, blank is 3.
+WebContent\index.jsp, code is 55, comment is 0, blank is 6.
+WebContent\IsDelete_manament.jsp, code is 229, comment is 0, blank is 8.
+WebContent\JS.jsp, code is 12, comment is 0, blank is 0.
+WebContent\js\comment.js, code is 16, comment is 0, blank is 0.
+WebContent\js\deleted.js, code is 76, comment is 0, blank is 1.
+WebContent\js\filter.js, code is 18, comment is 0, blank is 8.
+WebContent\js\handle.js, code is 6, comment is 0, blank is 2.
+WebContent\js\main.js, code is 9, comment is 0, blank is 11.
+WebContent\js\mdb.min.js, code is 1, comment is 19, blank is 0.
+WebContent\js\mdb.min.js.map, code is 1, comment is 0, blank is 0.
+WebContent\js\popper.js, code is 1, comment is 4, blank is 1.
+WebContent\js\scripts.js, code is 36, comment is 6, blank is 9.
+WebContent\js\search.js, code is 48, comment is 0, blank is 1.
+WebContent\js\tinymce\icons\default\icons.min.js, code is 1, comment is 0, blank is 0.
+WebContent\js\tinymce\langs\README.md, code is 2, comment is 1, blank is 1.
+WebContent\js\tinymce\license.txt, code is 17, comment is 0, blank is 4.
+WebContent\js\tinymce\models\dom\model.min.js, code is 1, comment is 3, blank is 0.
+WebContent\js\tinymce\plugins\advlist\plugin.min.js, code is 1, comment is 3, blank is 0.
+WebContent\js\tinymce\plugins\anchor\plugin.min.js, code is 1, comment is 3, blank is 0.
+WebContent\js\tinymce\plugins\autolink\plugin.min.js, code is 1, comment is 3, blank is 0.
+WebContent\js\tinymce\plugins\autoresize\plugin.min.js, code is 1, comment is 3, blank is 0.
+WebContent\js\tinymce\plugins\autosave\plugin.min.js, code is 1, comment is 3, blank is 0.
+WebContent\js\tinymce\plugins\charmap\plugin.min.js, code is 1, comment is 3, blank is 0.
+WebContent\js\tinymce\plugins\code\plugin.min.js, code is 1, comment is 3, blank is 0.
+WebContent\js\tinymce\plugins\codesample\plugin.min.js, code is 1, comment is 4, blank is 0.
+WebContent\js\tinymce\plugins\directionality\plugin.min.js, code is 1, comment is 3, blank is 0.
+WebContent\js\tinymce\plugins\emoticons\js\emojiimages.js, code is 1, comment is 0, blank is 0.
+WebContent\js\tinymce\plugins\emoticons\js\emojiimages.min.js, code is 1, comment is 2, blank is 0.
+WebContent\js\tinymce\plugins\emoticons\js\emojis.js, code is 1, comment is 0, blank is 0.
+WebContent\js\tinymce\plugins\emoticons\js\emojis.min.js, code is 1, comment is 1, blank is 0.
+WebContent\js\tinymce\plugins\emoticons\plugin.min.js, code is 1, comment is 3, blank is 0.
+WebContent\js\tinymce\plugins\fullscreen\plugin.min.js, code is 1, comment is 3, blank is 0.
+WebContent\js\tinymce\plugins\help\plugin.min.js, code is 1, comment is 4, blank is 0.
+WebContent\js\tinymce\plugins\image\plugin.min.js, code is 1, comment is 4, blank is 0.
+WebContent\js\tinymce\plugins\importcss\plugin.min.js, code is 1, comment is 3, blank is 0.
+WebContent\js\tinymce\plugins\insertdatetime\plugin.min.js, code is 1, comment is 3, blank is 0.
+WebContent\js\tinymce\plugins\link\plugin.min.js, code is 1, comment is 4, blank is 0.
+WebContent\js\tinymce\plugins\lists\plugin.min.js, code is 1, comment is 3, blank is 0.
+WebContent\js\tinymce\plugins\media\plugin.min.js, code is 1, comment is 3, blank is 0.
+WebContent\js\tinymce\plugins\nonbreaking\plugin.min.js, code is 1, comment is 3, blank is 0.
+WebContent\js\tinymce\plugins\pagebreak\plugin.min.js, code is 1, comment is 3, blank is 0.
+WebContent\js\tinymce\plugins\preview\plugin.min.js, code is 1, comment is 3, blank is 0.
+WebContent\js\tinymce\plugins\quickbars\plugin.min.js, code is 1, comment is 3, blank is 0.
+WebContent\js\tinymce\plugins\save\plugin.min.js, code is 1, comment is 3, blank is 0.
+WebContent\js\tinymce\plugins\searchreplace\plugin.min.js, code is 1, comment is 3, blank is 0.
+WebContent\js\tinymce\plugins\table\plugin.min.js, code is 1, comment is 3, blank is 0.
+WebContent\js\tinymce\plugins\template\plugin.min.js, code is 1, comment is 3, blank is 0.
+WebContent\js\tinymce\plugins\visualblocks\plugin.min.js, code is 1, comment is 3, blank is 0.
+WebContent\js\tinymce\plugins\visualchars\plugin.min.js, code is 1, comment is 3, blank is 0.
+WebContent\js\tinymce\plugins\wordcount\plugin.min.js, code is 1, comment is 3, blank is 0.
+WebContent\js\tinymce\skins\content\dark\content.min.css, code is 1, comment is 0, blank is 0.
+WebContent\js\tinymce\skins\content\default\content.min.css, code is 1, comment is 0, blank is 0.
+WebContent\js\tinymce\skins\content\document\content.min.css, code is 1, comment is 0, blank is 0.
+WebContent\js\tinymce\skins\content\tinymce-5-dark\content.min.css, code is 1, comment is 0, blank is 0.
+WebContent\js\tinymce\skins\content\tinymce-5\content.min.css, code is 1, comment is 0, blank is 0.
+WebContent\js\tinymce\skins\content\writer\content.min.css, code is 1, comment is 0, blank is 0.
+WebContent\js\tinymce\skins\ui\oxide-dark\content.inline.min.css, code is 1, comment is 1, blank is 0.
+WebContent\js\tinymce\skins\ui\oxide-dark\content.min.css, code is 1, comment is 1, blank is 0.
+WebContent\js\tinymce\skins\ui\oxide-dark\skin.min.css, code is 1, comment is 1, blank is 0.
+WebContent\js\tinymce\skins\ui\oxide-dark\skin.shadowdom.min.css, code is 1, comment is 0, blank is 0.
+WebContent\js\tinymce\skins\ui\oxide\content.inline.min.css, code is 1, comment is 1, blank is 0.
+WebContent\js\tinymce\skins\ui\oxide\content.min.css, code is 1, comment is 1, blank is 0.
+WebContent\js\tinymce\skins\ui\oxide\skin.min.css, code is 1, comment is 1, blank is 0.
+WebContent\js\tinymce\skins\ui\oxide\skin.shadowdom.min.css, code is 1, comment is 0, blank is 0.
+WebContent\js\tinymce\skins\ui\tinymce-5-dark\content.inline.min.css, code is 1, comment is 1, blank is 0.
+WebContent\js\tinymce\skins\ui\tinymce-5-dark\content.min.css, code is 1, comment is 1, blank is 0.
+WebContent\js\tinymce\skins\ui\tinymce-5-dark\skin.min.css, code is 1, comment is 1, blank is 0.
+WebContent\js\tinymce\skins\ui\tinymce-5-dark\skin.shadowdom.min.css, code is 1, comment is 0, blank is 0.
+WebContent\js\tinymce\skins\ui\tinymce-5\content.inline.min.css, code is 1, comment is 1, blank is 0.
+WebContent\js\tinymce\skins\ui\tinymce-5\content.min.css, code is 1, comment is 1, blank is 0.
+WebContent\js\tinymce\skins\ui\tinymce-5\skin.min.css, code is 1, comment is 1, blank is 0.
+WebContent\js\tinymce\skins\ui\tinymce-5\skin.shadowdom.min.css, code is 1, comment is 0, blank is 0.
+WebContent\js\tinymce\themes\silver\theme.min.js, code is 1, comment is 4, blank is 0.
+WebContent\js\tinymce\tinymce.d.ts, code is 3071, comment is 0, blank is 0.
+WebContent\js\tinymce\tinymce.min.js, code is 1, comment is 1, blank is 1.
+WebContent\js\validation.js, code is 125, comment is 10, blank is 37.
+WebContent\login.jsp, code is 103, comment is 0, blank is 16.
+WebContent\META-INF\context.xml, code is 2, comment is 0, blank is 0.
+WebContent\META-INF\MANIFEST.MF, code is 2, comment is 0, blank is 1.
+WebContent\navbar.jsp, code is 73, comment is 0, blank is 6.
+WebContent\profile.jsp, code is 102, comment is 0, blank is 10.
+WebContent\register.jsp, code is 173, comment is 6, blank is 20.
+WebContent\report.jsp, code is 12, comment is 0, blank is 0.
+WebContent\reset-password.jsp, code is 52, comment is 0, blank is 5.
+WebContent\text.jsp, code is 160, comment is 0, blank is 5.
+WebContent\totalRole.jsp, code is 161, comment is 0, blank is 16.
+WebContent\update-user.jsp, code is 74, comment is 0, blank is 7.
+WebContent\update.jsp, code is 128, comment is 0, blank is 17.
+WebContent\user-manager-filter.jsp, code is 206, comment is 0, blank is 11.
+WebContent\user-manager.jsp, code is 230, comment is 0, blank is 14.
+WebContent\user-priority-filter.jsp, code is 253, comment is 0, blank is 16.
+WebContent\user.jsp, code is 267, comment is 0, blank is 17.
+WebContent\view-cmt.jsp, code is 96, comment is 0, blank is 4.
+WebContent\WEB-INF\web.xml, code is 317, comment is 0, blank is 0.
+===============================================================================

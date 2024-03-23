@@ -94,8 +94,8 @@
                 <div class="row">
                     <div class="col-sm-12">
                         <div class="filter-group">
-                            <button class="btn-primary" href="./LoadDeleteController">
-                                Bill Deleted
+                            <button class="btn-primary" >
+                                <a href="./LoadDeleteController"> Bill Deleted </a>
                             </button>
                         </div>
 

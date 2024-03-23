@@ -93,8 +93,7 @@ public class AddController extends HttpServlet {
 			request.setAttribute("msg", "Your money is not enough!");
 			request.getRequestDispatcher("add.jsp").forward(request, response);
 		} else {
-
-			if (due.compareTo(createdDate) > 0) {
+			if (due.compareTo(createdDate) < 0) {
 				request.setAttribute("msg", "The due date must be greater than current date!");
 				request.getRequestDispatcher("add.jsp").forward(request, response);
 			} else {

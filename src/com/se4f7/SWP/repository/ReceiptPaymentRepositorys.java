@@ -43,7 +43,7 @@ public class ReceiptPaymentRepositorys {
 
 	private static final String SELECT_NAME_TODO_U = "select * from work where name like ? and created_by = ? and isDelete ='0'";
 
-	private static final String EXCEL = "select * from work where isDelete != '1'";
+	private static final String EXCEL = "select * from work where isDelete ='0'";
 
 	private static final String SELECT_DUE = "select due from work where id = ? and isDelete ='0'";
 
@@ -424,7 +424,7 @@ public class ReceiptPaymentRepositorys {
 			ResultSet rs = pstm.executeQuery();
 			while (rs.next()) {
 				return new CouponEntity(rs.getInt("id"), rs.getString("name"), rs.getString("description"),
-						rs.getInt("status"), rs.getString("created_by"), rs.getString("updated_by"),
+						rs.getInt("type"), rs.getString("created_by"), rs.getString("updated_by"),
 						rs.getString("created_date"), rs.getString("updated_date"), rs.getInt("Amount"),
 						rs.getString("due"),  rs.getInt("status"));
 			}
@@ -517,7 +517,7 @@ public class ReceiptPaymentRepositorys {
 			ResultSet rs = pstm.executeQuery();
 			while (rs.next()) {
 				CouponEntity toDo = new CouponEntity(rs.getInt("id"), rs.getString("name"), rs.getString("description"),
-						rs.getInt("status"), rs.getString("created_by"), rs.getString("updated_by"),
+						rs.getInt("type"), rs.getString("created_by"), rs.getString("updated_by"),
 						rs.getString("created_date"), rs.getString("updated_date"), rs.getInt("Amount"),
 						rs.getString("due"), rs.getInt("status"));
 				list.add(toDo);
@@ -535,7 +535,7 @@ public class ReceiptPaymentRepositorys {
 			ResultSet rs = pstm.executeQuery();
 			while (rs.next()) {
 				CouponEntity toDo = new CouponEntity(rs.getInt("id"), rs.getString("name"), rs.getString("description"),
-						rs.getInt("status"), rs.getString("created_by"), rs.getString("updated_by"),
+						rs.getInt("type"), rs.getString("created_by"), rs.getString("updated_by"),
 						rs.getString("created_date"), rs.getString("updated_date"), rs.getInt("Amount"),
 						rs.getString("due"),  rs.getInt("status"));
 				list.add(toDo);

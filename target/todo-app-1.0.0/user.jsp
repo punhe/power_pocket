@@ -75,10 +75,6 @@
                                 <h2>Receipt/Payment <b>Management</b></h2>
                             </div>
 
-                            <div class="col-sm-7">
-                                <a href="./add" class="btn btn-secondary"><i class="material-icons">&#xE147;</i> <span>Add New</span></a>
-                                <a href="./report" class="btn btn-secondary"><i class="material-icons">&#xE24D;</i> <span>Export to Excel</span></a>
-                            </div>
                         </div>
                     </div>
                     <div class="table-filter">
@@ -87,22 +83,6 @@
                                 <form action="./search-name-u" method="post" class="d-flex">
                                     <input type="text" name="search" class="form-control me-2" placeholder="Search..." oninput="searchByName(this)">
                                     <button type="submit" class="btn btn-primary"><i class="fa fa-search"></i></button>
-                                </form>
-                            </div>
-
-                            <div class="col-md-6">
-                                <form method="post" action="./upload-excel" enctype="multipart/form-data" class="row g-3">
-                                    <div class="col-md-10">
-                                        <div class="input-group">
-                                            <input type="file" class="form-control" id="file" name="file" required>
-                                            <label style="cursor: pointer;" class="custom-file-label" for="file">Choose file</label>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-2">
-                                        <div class="input-group">
-                                            <button type="submit" class="btn btn-primary">Upload</button>
-                                        </div>
-                                    </div>
                                 </form>
                             </div>
                         </div>

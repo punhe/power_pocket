@@ -2,12 +2,12 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.se4f7.prj301</groupId>
-	<artifactId>todo-app</artifactId>
+	<groupId>com.se4f7.swp.301</groupId>
+	<artifactId>powerpocket-app</artifactId>
 	<version>1.0.0</version>
 	<packaging>war</packaging>
-	<name>pp-app</name>
-	<description>PowerPocket application</description>
+	<name>powerpocket-app</name>
+	<description>powerpocket-app</description>
 	<dependencies>
 		<dependency>
 			<groupId>org.mariadb.jdbc</groupId>

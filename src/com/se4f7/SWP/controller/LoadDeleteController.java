@@ -39,7 +39,7 @@ public class LoadDeleteController extends HttpServlet {
             List<CouponEntity> list = couponService. getAllBillDeleteLimit(page);
             List<CouponEntity> list2 = couponService.getAllBillDelete();
             for(CouponEntity coupon : list2){
-                if(coupon.getStatus() == 0){
+                if(coupon.getType() == 0){
                     Money += coupon.getAmount();
                 }
                 else{
@@ -48,7 +48,7 @@ public class LoadDeleteController extends HttpServlet {
             }
 
 
-            int sumMoney = authService.getMoney(9);
+            int sumMoney = authService.getMoney(4);
             sumMoney = Money + sumMoney;
 
             request.setAttribute("sumMoney", sumMoney);

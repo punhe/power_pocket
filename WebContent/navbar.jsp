@@ -65,7 +65,7 @@
             <a href="profile.jsp" style="text-decoration: none; color: #000; margin-top: 10px"><p>Welcome, <%= user%></p></a>
             &nbsp;
             <a href="./logout" style="text-decoration: none; color: #000">
-                <i class="fa fa-fw fa-sign-out-alt text-dark mr-3" style="margin-bottom: 10px"></i>
+                Logout
             </a>
             <% } else {%>
             <button class="btn-outline-success my-2 my-sm-0 bg-primary"style="border-radius: 5px" onclick="handleToLogin()">Login</button>

@@ -34,12 +34,11 @@
 
     List<CouponEntity> list = (List<CouponEntity>) request.getAttribute("list");
     int count = (int) request.getAttribute("count");
-    int sumMoney = (int) request.getAttribute("sumMoney");
+
 %>
 <body>
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <a class="navbar-brand" href="index.jsp" style="color: black"><i class="fa fa-home" aria-hidden="true"></i>&nbsp; Home</a>
-    <a href="#" class="btn btn-primary"><i class="fas fa-dollar-sign"></i><%=sumMoney%></a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
@@ -74,11 +73,11 @@
             <div class="table-title">
                 <div class="row">
                     <div class="col-sm-7">
-                        <h2>Receipt/Payment <b>Management</b></h2>
+                        <h2>Receipt/Payment <b>Deleted</b></h2>
                     </div>
                     <div class="col-sm-5">
-                        <a href="./add" class="btn btn-secondary"><i class="material-icons">&#xE147;</i> <span>Add New</span></a>
-                        <a href="./user" class="btn btn-secondary"><i class="material-icons">&#xE24D;</i> <span>User management</span></a>
+                        <a href="./load-data" class="btn btn-secondary"><i class="material-icons"></i> <span>Manament</span></a>
+
                     </div>
                 </div>
             </div>
@@ -88,7 +87,6 @@
                         <span style="color: blue"> ${message} </span>
                     </c:if>
                     <div class="col-sm-12">
-                        <a href="./report" class="btn btn-primary-"> <span>Export to Excel</span></a>
                         <div class="filter-group">
                             <form action="./search" method="post">
                                 <input type="text" name="search" class="form-control" placeholder="Search..." oninput="searchByNameAdmin(this)" >
@@ -103,26 +101,18 @@
                 <tr>
                     <th>Name</th>
                     <th class="status-filter">
-                        <select onchange="handleFilter(this)">
-                            <option value="-1">Status</option>
-                            <option value="4">All..</option>
-                            <option value="0">Receipt</option>
-                            <option value="1">Payment</option>
-                        </select>
+                       type
                     </th>
                     <th>Created By</th>
                     <th>Amount</th>
                     <th>Created Date</th>
                     <th>Updated Date</th>
                     <th class="status-filter">
-                        <select onchange="handleFilterDue(this)">
-                            <option value="-1">Due</option>
-                            <option value="all">All...</option>
-                            <option value="due">Overdue</option>
-                            <option value="not-due">Not Overdue</option>
+                       Due
+
                         </select>
                     </th>
-                    <th>Action</th>
+                    <th>Status</th>
                 </tr>
                 </thead>
                 <tbody id="toDoAjaxAdmin">
@@ -149,47 +139,23 @@
                         <%=toDo.getUpdatedDate()%>
                     </td>
                     <td>
-                        <%
-                            if (toDo.getStatus() != 3) {
-                        %>
-                        <%=toDo.getDue()%>
-                        <%
-                        } else {
-                        %>
-                        <span class="badge bg-success rounded-pill d-inline text-light">Done</span>
-                        <%
-                            }
-                        %>
-
+                       <%=toDo.getDue()%>
                     </td>
 
+                    <% if (toDo.getStatus() == 1) { %>
+                    <td>Not paid</td>
+                    <% } else if (toDo.getStatus() == 2) { %>
+                    <td>Paid</td>
+                    <% } else if (toDo.getStatus() == 3) { %>
+                    <td>Expired</td>
+                    <% } %>
 
                 </tr>
                 <% }
                 %>
                 </tbody>
             </table>
-            <div class="clearfix">
-                <div class="hint-text">Showing <b><%=count < 5 ? count : 5%></b> out of <b><%=count%></b> entries</div>
-                <ul class="pagination">
-                    <c:if test="${tag > 1}">
-                        <li class="page-item">
-                            <a href="./LoadDeleteController?page=${tag - 1}" class="page-link">Previous</a>
-                        </li>
-                    </c:if>
-                    <c:forEach begin="${(tag - 5) < 1 ? 1 : (tag - 5)}" end="${(tag + 5) > endP ? endP : (tag + 5)}" var="i">
-                        <li class="page-item ${tag == i ? 'active' : ''}">
-                            <a href="./LoadDeleteController?page=${i}" class="page-link" style="text-decoration: none;">${i}</a>
-                        </li>
-                    </c:forEach>
-                    <c:if test="${tag < endP}">
-                        <li class="page-item">
-                            <a href="./LoadDeleteController?page=${tag + 1}" class="page-link">Next</a>
-                        </li>
-                    </c:if>
-                </ul>
-            </div>
-        </div>
+
     </div>
 </div>
 <br/>
@@ -220,8 +186,7 @@
     $(document).ready(function () {
         <% for (CouponEntity toDoS : list) {%>
         var statusTag = $("#status<%= toDoS.getId()%>");
-        var status = <%= toDoS.getStatus()%>;
-        var sum = <%=sumMoney%>
+        var status = <%= toDoS.getType()%>;
         switch (status) {
             case 0:
                 statusTag.text("receipt").addClass('badge bg-danger rounded-pill d-inline text-light');

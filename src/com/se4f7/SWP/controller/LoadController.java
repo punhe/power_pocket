@@ -44,7 +44,7 @@ public class LoadController extends HttpServlet {
 			List<CouponEntity> list2 = couponService.getAllBill();
 			request.setAttribute("list", list);
 			for(CouponEntity coupon : list2){
-				if(coupon.getStatus() == 0){
+				if(coupon.getType() == 0){
 					Money += coupon.getAmount();
 				}
 				else{

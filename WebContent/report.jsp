@@ -22,8 +22,8 @@
 
                 // Create header row
                 Row headerRow = sheet.createRow(0);
-                String[] columns = {"ID", "Name", "Description", "Status", "Created By", "Updated By",
-                    "Created Date", "Updated Date", "Amount", "Due"};
+                String[] columns = {"ID", "Name", "Description", "Type", "Created By", "Updated By",
+                    "Created Date", "Updated Date", "Amount", "Due", "Status"};
                 for (int i = 0; i < columns.length; i++) {
                     Cell cell = headerRow.createCell(i);
                     cell.setCellValue(columns[i]);
@@ -37,13 +37,14 @@
                     row.createCell(0).setCellValue(toDo.getId());
                     row.createCell(1).setCellValue(toDo.getName());
                     row.createCell(2).setCellValue(toDo.getDescription());
-                    row.createCell(3).setCellValue(toDo.getStatus());
+                    row.createCell(3).setCellValue(toDo.getType());
                     row.createCell(4).setCellValue(toDo.getCreatedBy());
                     row.createCell(5).setCellValue(toDo.getUpdatedBy());
                     row.createCell(6).setCellValue(toDo.getCreatedDate());
                     row.createCell(7).setCellValue(toDo.getUpdatedDate());
                     row.createCell(8).setCellValue(toDo.getAmount());
                     row.createCell(9).setCellValue(toDo.getDue());
+                    row.createCell(10).setCellValue(toDo.getStatus());
                 }
 
                 // Auto-size columns (optional)

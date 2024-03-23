@@ -114,7 +114,7 @@
                 <% } %>
             ],
             datasets: [{
-                label: 'Amount (Payment)',
+                label: 'Amount (Receipt)',
                 data: [
                     <% for (Graph dailyAmount : dailyAmounts) { %>
                     <%= dailyAmount.getAmountStatus1() %>,
@@ -144,7 +144,7 @@
                 <% } %>
             ],
             datasets: [{
-                label: 'Amount (Receipt)',
+                label: 'Amount (Payment)',
                 data: [
                     <% for (Graph dailyAmount : dailyAmounts) { %>
                     <%= dailyAmount.getAmountStatus2() %>,

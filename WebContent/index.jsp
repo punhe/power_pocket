@@ -46,7 +46,7 @@
             </div>
             <div class="col-lg-8 align-self-baseline">
                 <p class="text-white-75 mb-5"></p>
-                <a class="btn btn-primary btn-xl" href="#about">Find Out More</a>
+                
             </div>
         </div>
     </div>
@@ -85,7 +85,7 @@
                         <label for="message">Message:</label>
                         <textarea placeholder="Input your message" id="message" name="message" rows="4" class="form-control" required></textarea>
                     </div>
-                    <button type="submit" class="btn btn-outline-success mt-2">Send Message</button>
+                    <button type="submit" class="btn-outline-success my-2 my-sm-0 bg-primary"style="border-radius: 5px">Send Message</button>
                 </form>
             </div>
         </div>

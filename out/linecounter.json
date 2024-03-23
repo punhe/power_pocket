@@ -1,0 +1,4519 @@
+{
+    "extension": "linecounter",
+    "version": "0.2.7",
+    "workspace": "c:\\Users\\LENOVO\\Desktop\\test\\power_pocket",
+    "linecount": [
+        {
+            "version": "0.2.7",
+            "counttime": "2024-03-22 20:25:36",
+            "filesum": 695,
+            "codesum": 122339,
+            "commentsum": 730,
+            "blanksum": 5730,
+            "statistics": {
+                "": {
+                    "code": 182,
+                    "comment": 0,
+                    "blank": 6
+                },
+                ".jsp": {
+                    "code": 7290,
+                    "comment": 12,
+                    "blank": 542
+                },
+                ".properties": {
+                    "code": 90,
+                    "comment": 3,
+                    "blank": 3
+                },
+                ".js": {
+                    "code": 746,
+                    "comment": 282,
+                    "blank": 142
+                },
+                ".check": {
+                    "code": 0,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".xml": {
+                    "code": 3220,
+                    "comment": 6,
+                    "blank": 3
+                },
+                ".MF": {
+                    "code": 6,
+                    "comment": 0,
+                    "blank": 2
+                },
+                ".ts": {
+                    "code": 6142,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".md": {
+                    "code": 28,
+                    "comment": 3,
+                    "blank": 16
+                },
+                ".css": {
+                    "code": 97178,
+                    "comment": 329,
+                    "blank": 4110
+                },
+                ".txt": {
+                    "code": 35,
+                    "comment": 0,
+                    "blank": 8
+                },
+                ".xmi": {
+                    "code": 520,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".prefs": {
+                    "code": 2322,
+                    "comment": 28,
+                    "blank": 0
+                },
+                ".version": {
+                    "code": 2,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".json": {
+                    "code": 1,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".java": {
+                    "code": 4287,
+                    "comment": 35,
+                    "blank": 873
+                },
+                ".map": {
+                    "code": 10,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".ini": {
+                    "code": 3,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".sql": {
+                    "code": 123,
+                    "comment": 32,
+                    "blank": 25
+                },
+                ".component": {
+                    "code": 10,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".lst": {
+                    "code": 132,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".meta": {
+                    "code": 12,
+                    "comment": 0,
+                    "blank": 0
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 0,
+                    "code": 36,
+                    "comment": 0,
+                    "filename": ".classpath"
+                },
+                {
+                    "blank": 0,
+                    "code": 34,
+                    "comment": 0,
+                    "filename": ".factorypath"
+                },
+                {
+                    "blank": 0,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": ".idea\\.gitignore"
+                },
+                {
+                    "blank": 0,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": ".idea\\compiler.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 23,
+                    "comment": 0,
+                    "filename": ".idea\\dataSources.local.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": ".idea\\dataSources.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 1683,
+                    "comment": 0,
+                    "filename": ".idea\\dataSources\\ec47d907-321f-4947-a72a-cf11281a40e8.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": ".idea\\dataSources\\ec47d907-321f-4947-a72a-cf11281a40e8\\storage_v2\\_src_\\schema\\information_schema.FNRwLQ.meta"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": ".idea\\dataSources\\ec47d907-321f-4947-a72a-cf11281a40e8\\storage_v2\\_src_\\schema\\mysql.osA4Bg.meta"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": ".idea\\dataSources\\ec47d907-321f-4947-a72a-cf11281a40e8\\storage_v2\\_src_\\schema\\performance_schema.kIw0nw.meta"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": ".idea\\dataSources\\ec47d907-321f-4947-a72a-cf11281a40e8\\storage_v2\\_src_\\schema\\receipt_payment_app.4aQxkg.meta"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": ".idea\\dataSources\\ec47d907-321f-4947-a72a-cf11281a40e8\\storage_v2\\_src_\\schema\\sys.zb4BAA.meta"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": ".idea\\dataSources\\ec47d907-321f-4947-a72a-cf11281a40e8\\storage_v2\\_src_\\schema\\todolist.5IXPsg.meta"
+                },
+                {
+                    "blank": 0,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": ".idea\\jarRepositories.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": ".idea\\jsLibraryMappings.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": ".idea\\misc.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": ".idea\\sqldialects.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 124,
+                    "comment": 0,
+                    "filename": ".idea\\uiDesigner.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": ".idea\\vcs.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 525,
+                    "comment": 0,
+                    "filename": ".idea\\workspace.xml"
+                },
+                {
+                    "blank": 6,
+                    "code": 43,
+                    "comment": 0,
+                    "filename": ".metadata\\.log"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\com.genuitec.eclipse.devstyle\\recent.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 61,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\com.genuitec.eclipse.monitor\\myeclipse-usage.properties"
+                },
+                {
+                    "blank": 2570,
+                    "code": 216,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\com.genuitec.eclipse.ui.common.platform\\color-definitions-fix.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\com.genuitec.eclipse.ui.common.platform\\colors-org.eclipse.buildship.ui-1231266899.css"
+                },
+                {
+                    "blank": 5,
+                    "code": 10,
+                    "comment": 28,
+                    "filename": ".metadata\\.plugins\\com.genuitec.eclipse.ui.common.platform\\colors-org.eclipse.egit.ui-1849137576.css"
+                },
+                {
+                    "blank": 9,
+                    "code": 49,
+                    "comment": 1,
+                    "filename": ".metadata\\.plugins\\com.genuitec.eclipse.ui.common.platform\\colors-org.eclipse.epp.mpc.ui.css--1027399938.css"
+                },
+                {
+                    "blank": 7,
+                    "code": 21,
+                    "comment": 22,
+                    "filename": ".metadata\\.plugins\\com.genuitec.eclipse.ui.common.platform\\colors-org.eclipse.jdt.ui-326703266.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\com.genuitec.eclipse.ui.common.platform\\splash-fix.css"
+                },
+                {
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.resources\\.projects\\.org.eclipse.egit.core.cmp\\.location",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.resources\\.root\\.indexes\\history.version"
+                },
+                {
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.resources\\.root\\.indexes\\properties.index",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.resources\\.root\\.indexes\\properties.version"
+                },
+                {
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.resources\\.root\\1.tree",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.resources\\.safetable\\org.eclipse.core.resources",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 114,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\ccw.core.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 72,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\com.adobe.flexide.as.core.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 57,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\com.adobe.flexide.css.core.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 37,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\com.adobe.flexide.mxml.core.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 46,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\com.axmor.eclipse.typescript.editor.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\com.dubture.twig.ui.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\com.genuitec.eclipse.codetogether.ui.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\com.genuitec.eclipse.monitor.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\com.genuitec.eclipse.sqlexplorer.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\com.genuitec.eclipse.theming.ui.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\com.github.eclipsecolortheme.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 26,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\com.github.rustdt.ide.ui.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 38,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\com.google.eclipse.protobuf.Protobuf.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\com.googlecode.goclipse.ui.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\com.palantir.typescript.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 329,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\com.powerflasher.fdt.ui.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\com.puppetlabs.geppetto.module.dsl.Module.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 27,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\com.puppetlabs.geppetto.pp.dsl.PP.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\com.spket.js.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\com.spket.xml.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\com.wolfram.eclipse.MEET.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 4,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\de.walware.statet.base.ui.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 132,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\de.walware.statet.r.ui.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\Docker.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\eclihx.ui.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\jp.gr.java_conf.ussiy.app.propedit.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\jsonedit-core.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\net.sf.eclipsefp.haskell.ui.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\net.sourceforge.texlipse.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\net.vtst.ow.eclipse.less.Less.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.apache.ivyde.eclipse.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 30,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.cfeclipse.cfml.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.chromium.debug.ui.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 27,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.cloudsmith.geppetto.pp.dsl.PP.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 129,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.codehaus.groovy.eclipse.ui.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.dadacoalition.yedit.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.eclipse.angularjs.ui.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.eclipse.ant.ui.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.eclipse.cdt.dsf.ui.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.eclipse.cdt.make.ui.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 143,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.eclipse.cdt.ui.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.eclipse.core.resources.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.eclipse.datatools.sqltools.sqleditor.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.eclipse.debug.ui.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 118,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.eclipse.dltk.ruby.ui.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 88,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.eclipse.dltk.tcl.ui.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.eclipse.e4.CSS.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.eclipse.e4.ui.css.swt.theme.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.eclipse.egit.core.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.eclipse.epp.mpc.ui.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.eclipse.jdt.ui.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.eclipse.jsch.core.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.eclipse.jst.jsp.ui.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.eclipse.m2e.apt.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.eclipse.m2e.discovery.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.eclipse.mylyn.wikitext.ui.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 92,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.eclipse.php.ui.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.eclipse.team.cvs.ui.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.eclipse.ui.editors.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.eclipse.ui.genericeditor.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.eclipse.ui.ide.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 2,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.eclipse.ui.workbench.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.eclipse.urischeme.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 23,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.eclipse.wst.css.ui.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.eclipse.wst.dtd.ui.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.eclipse.wst.html.ui.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 40,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.eclipse.wst.jsdt.ui.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.eclipse.wst.json.ui.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.eclipse.wst.sse.ui.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.eclipse.wst.xml.ui.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.eclipse.wst.xsl.ui.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.eclipse.xtend.core.Xtend.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 52,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.epic.perleditor.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 22,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.erlide.ui.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.jboss.ide.eclipse.freemarker.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.nodeclipse.enide.editors.gradle.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.nodeclipse.enide.editors.jade.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 28,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.python.pydev.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.scala-ide.play2.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 77,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.scala-ide.sdt.core.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.sourceforge.jsonedit-core.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.springframework.ide.eclipse.boot.dash.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.springframework.ide.eclipse.imports.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.springsource.ide.eclipse.commons.ui.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.sweetlemonade.eclipse.json.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\winterwell.markdown.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 520,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.e4.workbench\\workbench.xmi"
+                },
+                {
+                    "blank": 0,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.egit.core\\.org.eclipse.egit.core.cmp\\.project"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.egit.core\\.org.eclipse.egit.core.cmp\\.settings\\org.eclipse.core.resources.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.jdt.core\\assumedExternalFilesCache"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.jdt.core\\externalFilesCache"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.jdt.core\\javaLikeNames.txt"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.jdt.core\\nonChainingJarsCache"
+                },
+                {
+                    "filename": ".metadata\\.plugins\\org.eclipse.jdt.core\\variablesAndContainers.dat",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.jdt.ui\\dialog_settings.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.jdt.ui\\OpenTypeHistory.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.jdt.ui\\QualifiedTypeNameHistory.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.jst.ws.jaxrs.ui\\dialog_settings.xml"
+                },
+                {
+                    "filename": ".metadata\\.plugins\\org.eclipse.m2e.core\\workspaceState.ser",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.pde.core\\.cache\\clean-cache.properties"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.tips.ide\\dialog_settings.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.ui.ide\\dialog_settings.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.ui.workbench\\dialog_settings.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": ".metadata\\.plugins\\org.eclipse.ui.workbench\\workingsets.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": ".metadata\\defender.check"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": ".metadata\\version.ini"
+                },
+                {
+                    "blank": 0,
+                    "code": 47,
+                    "comment": 0,
+                    "filename": ".project"
+                },
+                {
+                    "blank": 0,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": ".settings\\org.eclipse.jdt.apt.core.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": ".settings\\org.eclipse.jdt.core.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": ".settings\\org.eclipse.m2e.core.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": ".settings\\org.eclipse.wst.common.component"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": ".settings\\org.eclipse.wst.common.project.facet.core.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": ".settings\\org.eclipse.wst.validation.prefs"
+                },
+                {
+                    "blank": 25,
+                    "code": 76,
+                    "comment": 30,
+                    "filename": "database\\todolist.sql"
+                },
+                {
+                    "blank": 0,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "database\\users.sql"
+                },
+                {
+                    "blank": 0,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "database\\view.sql"
+                },
+                {
+                    "blank": 0,
+                    "code": 19,
+                    "comment": 2,
+                    "filename": "database\\work.sql"
+                },
+                {
+                    "blank": 3,
+                    "code": 103,
+                    "comment": 6,
+                    "filename": "pom.xml"
+                },
+                {
+                    "blank": 14,
+                    "code": 24,
+                    "comment": 1,
+                    "filename": "README.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 8,
+                    "comment": 1,
+                    "filename": "src\\application.properties"
+                },
+                {
+                    "blank": 2,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\constants\\Constants.java"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\constants\\package-info.java"
+                },
+                {
+                    "blank": 14,
+                    "code": 108,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\controller\\AddController.java"
+                },
+                {
+                    "blank": 7,
+                    "code": 37,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\controller\\CheckOTPController.java"
+                },
+                {
+                    "blank": 11,
+                    "code": 78,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\controller\\CommentController.java"
+                },
+                {
+                    "blank": 8,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\controller\\ContactController.java"
+                },
+                {
+                    "blank": 4,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\controller\\DailyAmountServlet.java"
+                },
+                {
+                    "blank": 11,
+                    "code": 45,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\controller\\DeleteCMTController.java"
+                },
+                {
+                    "blank": 9,
+                    "code": 60,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\controller\\DeleteController.java"
+                },
+                {
+                    "blank": 16,
+                    "code": 112,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\controller\\EditController.java"
+                },
+                {
+                    "blank": 14,
+                    "code": 44,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\controller\\EditUserController.java"
+                },
+                {
+                    "blank": 9,
+                    "code": 36,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\controller\\ExcelController.java"
+                },
+                {
+                    "blank": 14,
+                    "code": 56,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\controller\\ForgetController.java"
+                },
+                {
+                    "blank": 4,
+                    "code": 49,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\controller\\LoadAll.java"
+                },
+                {
+                    "blank": 12,
+                    "code": 58,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\controller\\LoadController.java"
+                },
+                {
+                    "blank": 8,
+                    "code": 57,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\controller\\LoadDeleteController.java"
+                },
+                {
+                    "blank": 9,
+                    "code": 57,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\controller\\LoadFilterController.java"
+                },
+                {
+                    "blank": 10,
+                    "code": 67,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\controller\\LoadFilterDueController.java"
+                },
+                {
+                    "blank": 12,
+                    "code": 72,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\controller\\LoginController.java"
+                },
+                {
+                    "blank": 6,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\controller\\LogOutController.java"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\controller\\package-info.java"
+                },
+                {
+                    "blank": 12,
+                    "code": 33,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\controller\\ProfileController.java"
+                },
+                {
+                    "blank": 9,
+                    "code": 45,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\controller\\RegisterController.java"
+                },
+                {
+                    "blank": 14,
+                    "code": 48,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\controller\\ResetPassController.java"
+                },
+                {
+                    "blank": 16,
+                    "code": 77,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\controller\\SearchByAjaxAdController.java"
+                },
+                {
+                    "blank": 18,
+                    "code": 90,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\controller\\SearchByAjaxController.java"
+                },
+                {
+                    "blank": 12,
+                    "code": 50,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\controller\\SearchController.java"
+                },
+                {
+                    "blank": 13,
+                    "code": 43,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\controller\\SearchNameUController.java"
+                },
+                {
+                    "blank": 13,
+                    "code": 63,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\controller\\SearchUByAjaxController.java"
+                },
+                {
+                    "blank": 12,
+                    "code": 33,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\controller\\SearchUserController.java"
+                },
+                {
+                    "blank": 12,
+                    "code": 39,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\controller\\TimeOutController.java"
+                },
+                {
+                    "blank": 14,
+                    "code": 55,
+                    "comment": 3,
+                    "filename": "src\\com\\se4f7\\SWP\\controller\\UploadFileController.java"
+                },
+                {
+                    "blank": 11,
+                    "code": 52,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\controller\\UserDataController.java"
+                },
+                {
+                    "blank": 10,
+                    "code": 34,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\controller\\UserFilterController.java"
+                },
+                {
+                    "blank": 9,
+                    "code": 45,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\controller\\UserFilterPriorityController.java"
+                },
+                {
+                    "blank": 11,
+                    "code": 34,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\controller\\UserFilterRoleController.java"
+                },
+                {
+                    "blank": 12,
+                    "code": 45,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\controller\\UserManagerController.java"
+                },
+                {
+                    "blank": 10,
+                    "code": 31,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\controller\\ViewCMTController.java"
+                },
+                {
+                    "blank": 9,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\dto\\request\\LoginRequestDto.java"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\dto\\request\\package-info.java"
+                },
+                {
+                    "blank": 15,
+                    "code": 48,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\dto\\request\\RegisterRequestDto.java"
+                },
+                {
+                    "blank": 14,
+                    "code": 41,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\dto\\response\\LoginResponseDto.java"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\dto\\response\\package-info.java"
+                },
+                {
+                    "blank": 18,
+                    "code": 55,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\dto\\response\\UserResponseDto.java"
+                },
+                {
+                    "blank": 17,
+                    "code": 54,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\entities\\BaseEntity.java"
+                },
+                {
+                    "blank": 17,
+                    "code": 55,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\entities\\CommentEntity.java"
+                },
+                {
+                    "blank": 19,
+                    "code": 68,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\entities\\CouponEntity.java"
+                },
+                {
+                    "blank": 10,
+                    "code": 39,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\entities\\Graph.java"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\entities\\package-info.java"
+                },
+                {
+                    "blank": 27,
+                    "code": 71,
+                    "comment": 7,
+                    "filename": "src\\com\\se4f7\\SWP\\entities\\UserEntity.java"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\enums\\package-info.java"
+                },
+                {
+                    "blank": 1,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\enums\\UserStatus.java"
+                },
+                {
+                    "blank": 8,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\filter\\AdminFilter.java"
+                },
+                {
+                    "blank": 8,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\filter\\LoginFilter.java"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\package-info.java"
+                },
+                {
+                    "blank": 13,
+                    "code": 89,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\repository\\CommentRepository.java"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\repository\\package-info.java"
+                },
+                {
+                    "blank": 55,
+                    "code": 492,
+                    "comment": 1,
+                    "filename": "src\\com\\se4f7\\SWP\\repository\\ReceiptPaymentRepositorys.java"
+                },
+                {
+                    "blank": 53,
+                    "code": 400,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\repository\\UserRepository.java"
+                },
+                {
+                    "blank": 7,
+                    "code": 28,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\repository\\ViewRepository.java"
+                },
+                {
+                    "blank": 24,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\service\\AuthService.java"
+                },
+                {
+                    "blank": 8,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\service\\CommentService.java"
+                },
+                {
+                    "blank": 28,
+                    "code": 34,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\service\\CouponService.java"
+                },
+                {
+                    "blank": 35,
+                    "code": 271,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\service\\impl\\AuthServiceImpl.java"
+                },
+                {
+                    "blank": 8,
+                    "code": 48,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\service\\impl\\CommentServiceImpl.java"
+                },
+                {
+                    "blank": 28,
+                    "code": 235,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\service\\impl\\CouponServiceImpl.java"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\service\\impl\\package-info.java"
+                },
+                {
+                    "blank": 6,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\service\\impl\\ViewServiceImpl.java"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\service\\package-info.java"
+                },
+                {
+                    "blank": 3,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\service\\ViewService.java"
+                },
+                {
+                    "blank": 13,
+                    "code": 82,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\utils\\DBUtil.java"
+                },
+                {
+                    "blank": 20,
+                    "code": 52,
+                    "comment": 22,
+                    "filename": "src\\com\\se4f7\\SWP\\utils\\JavaMailUtil.java"
+                },
+                {
+                    "blank": 7,
+                    "code": 38,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\utils\\MailMessage.java"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "src\\com\\se4f7\\SWP\\utils\\package-info.java"
+                },
+                {
+                    "blank": 14,
+                    "code": 59,
+                    "comment": 2,
+                    "filename": "src\\com\\se4f7\\SWP\\utils\\ReadFromExcelFile.java"
+                },
+                {
+                    "blank": 1,
+                    "code": 8,
+                    "comment": 1,
+                    "filename": "target\\classes\\application.properties"
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\constants\\Constants.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\constants\\package-info.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\controller\\AddController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\controller\\CheckOTPController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\controller\\CommentController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\controller\\ContactController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\controller\\DailyAmountServlet.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\controller\\DeleteCMTController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\controller\\DeleteController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\controller\\EditController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\controller\\EditUserController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\controller\\ExcelController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\controller\\ForgetController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\controller\\LoadAll.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\controller\\LoadController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\controller\\LoadDeleteController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\controller\\LoadFilterController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\controller\\LoadFilterDueController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\controller\\LoginController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\controller\\LogOutController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\controller\\package-info.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\controller\\ProfileController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\controller\\RegisterController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\controller\\ResetPassController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\controller\\SearchByAjaxAdController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\controller\\SearchByAjaxController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\controller\\SearchController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\controller\\SearchNameUController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\controller\\SearchUByAjaxController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\controller\\SearchUserController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\controller\\TimeOutController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\controller\\UploadFileController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\controller\\UserDataController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\controller\\UserFilterController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\controller\\UserFilterPriorityController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\controller\\UserFilterRoleController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\controller\\UserManagerController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\controller\\ViewCMTController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\dto\\request\\LoginRequestDto.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\dto\\request\\package-info.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\dto\\request\\RegisterRequestDto.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\dto\\response\\LoginResponseDto.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\dto\\response\\package-info.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\dto\\response\\UserResponseDto.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\entities\\BaseEntity.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\entities\\CommentEntity.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\entities\\CouponEntity.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\entities\\Graph.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\entities\\package-info.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\entities\\UserEntity.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\enums\\package-info.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\enums\\UserStatus.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\filter\\AdminFilter.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\filter\\LoginFilter.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\package-info.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\repository\\CommentRepository.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\repository\\package-info.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\repository\\ReceiptPaymentRepositorys.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\repository\\UserRepository.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\repository\\ViewRepository.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\service\\AuthService.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\service\\CommentService.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\service\\CouponService.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\service\\impl\\AuthServiceImpl.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\service\\impl\\CommentServiceImpl.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\service\\impl\\CouponServiceImpl.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\service\\impl\\package-info.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\service\\impl\\ViewServiceImpl.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\service\\package-info.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\service\\ViewService.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\utils\\DBUtil.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\utils\\JavaMailUtil$1.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\utils\\JavaMailUtil.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\utils\\MailMessage.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\utils\\package-info.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\se4f7\\SWP\\utils\\ReadFromExcelFile.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "target\\maven-archiver\\pom.properties"
+                },
+                {
+                    "blank": 0,
+                    "code": 61,
+                    "comment": 0,
+                    "filename": "target\\maven-status\\maven-compiler-plugin\\compile\\default-compile\\createdFiles.lst"
+                },
+                {
+                    "blank": 0,
+                    "code": 71,
+                    "comment": 0,
+                    "filename": "target\\maven-status\\maven-compiler-plugin\\compile\\default-compile\\inputFiles.lst"
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0.war",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 20,
+                    "code": 125,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\add.jsp"
+                },
+                {
+                    "blank": 33,
+                    "code": 315,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\admin-filter.jsp"
+                },
+                {
+                    "blank": 12,
+                    "code": 179,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\admin-graph.jsp"
+                },
+                {
+                    "blank": 8,
+                    "code": 240,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\admin.jsp"
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\assets\\favicon.ico",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\assets\\img\\bg-masthead.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\assets\\img\\portfolio\\fullsize\\1.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\assets\\img\\portfolio\\fullsize\\2.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\assets\\img\\portfolio\\fullsize\\3.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\assets\\img\\portfolio\\fullsize\\4.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\assets\\img\\portfolio\\fullsize\\5.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\assets\\img\\portfolio\\fullsize\\6.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\assets\\img\\portfolio\\thumbnails\\1.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\assets\\img\\portfolio\\thumbnails\\2.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\assets\\img\\portfolio\\thumbnails\\3.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\assets\\img\\portfolio\\thumbnails\\4.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\assets\\img\\portfolio\\thumbnails\\5.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\assets\\img\\portfolio\\thumbnails\\6.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 3,
+                    "code": 49,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\checkotp.jsp"
+                },
+                {
+                    "blank": 6,
+                    "code": 138,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\comments.jsp"
+                },
+                {
+                    "blank": 0,
+                    "code": 42,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\Contact.jsp"
+                },
+                {
+                    "blank": 0,
+                    "code": 8892,
+                    "comment": 6,
+                    "filename": "target\\todo-app-1.0.0\\css\\bootstrap.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\css\\comment.css"
+                },
+                {
+                    "blank": 3,
+                    "code": 145,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\css\\index.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\css\\login-style.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 14784,
+                    "comment": 23,
+                    "filename": "target\\todo-app-1.0.0\\css\\mdb.dark.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\css\\mdb.dark.min.css.map"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 10,
+                    "filename": "target\\todo-app-1.0.0\\css\\mdb.dark.rtl.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\css\\mdb.dark.rtl.min.css.map"
+                },
+                {
+                    "blank": 0,
+                    "code": 14275,
+                    "comment": 41,
+                    "filename": "target\\todo-app-1.0.0\\css\\mdb.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\css\\mdb.min.css.map"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 10,
+                    "filename": "target\\todo-app-1.0.0\\css\\mdb.rtl.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\css\\mdb.rtl.min.css.map"
+                },
+                {
+                    "blank": 1,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\css\\nav.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\css\\navbar.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 23,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\css\\register.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\css\\search.css"
+                },
+                {
+                    "blank": 750,
+                    "code": 10208,
+                    "comment": 37,
+                    "filename": "target\\todo-app-1.0.0\\css\\styles.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 42,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\error.jsp"
+                },
+                {
+                    "blank": 0,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\footer.jsp"
+                },
+                {
+                    "blank": 4,
+                    "code": 46,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\forget.jsp"
+                },
+                {
+                    "blank": 2,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\header.jsp"
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\image\\carousel-image1.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\image\\error.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\image\\feature-image1.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\image\\feature-image2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\image\\feature-image3.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\images (3).jfif",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 3,
+                    "code": 48,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\import-success.jsp"
+                },
+                {
+                    "blank": 6,
+                    "code": 55,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\index.jsp"
+                },
+                {
+                    "blank": 8,
+                    "code": 229,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\IsDelete_manament.jsp"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\JS.jsp"
+                },
+                {
+                    "blank": 0,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\js\\comment.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 76,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\js\\deleted.js"
+                },
+                {
+                    "blank": 8,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\js\\filter.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\js\\handle.js"
+                },
+                {
+                    "blank": 11,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\js\\main.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 19,
+                    "filename": "target\\todo-app-1.0.0\\js\\mdb.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\js\\mdb.min.js.map"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 4,
+                    "filename": "target\\todo-app-1.0.0\\js\\popper.js"
+                },
+                {
+                    "blank": 9,
+                    "code": 36,
+                    "comment": 6,
+                    "filename": "target\\todo-app-1.0.0\\js\\scripts.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 48,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\js\\search.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\icons\\default\\icons.min.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 2,
+                    "comment": 1,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\langs\\README.md"
+                },
+                {
+                    "blank": 4,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\license.txt"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\models\\dom\\model.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\plugins\\advlist\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\plugins\\anchor\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\plugins\\autolink\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\plugins\\autoresize\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\plugins\\autosave\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\plugins\\charmap\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\plugins\\code\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 4,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\plugins\\codesample\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\plugins\\directionality\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\plugins\\emoticons\\js\\emojiimages.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 2,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\plugins\\emoticons\\js\\emojiimages.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\plugins\\emoticons\\js\\emojis.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 1,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\plugins\\emoticons\\js\\emojis.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\plugins\\emoticons\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\plugins\\fullscreen\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 4,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\plugins\\help\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 4,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\plugins\\image\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\plugins\\importcss\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\plugins\\insertdatetime\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 4,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\plugins\\link\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\plugins\\lists\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\plugins\\media\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\plugins\\nonbreaking\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\plugins\\pagebreak\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\plugins\\preview\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\plugins\\quickbars\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\plugins\\save\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\plugins\\searchreplace\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\plugins\\table\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\plugins\\template\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\plugins\\visualblocks\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\plugins\\visualchars\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\plugins\\wordcount\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\skins\\content\\dark\\content.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\skins\\content\\default\\content.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\skins\\content\\document\\content.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\skins\\content\\tinymce-5-dark\\content.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\skins\\content\\tinymce-5\\content.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\skins\\content\\writer\\content.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 1,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 1,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\skins\\ui\\oxide-dark\\content.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 1,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 1,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\skins\\ui\\oxide\\content.inline.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 1,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\skins\\ui\\oxide\\content.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 1,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\skins\\ui\\oxide\\skin.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 1,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 1,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\content.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 1,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 1,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\skins\\ui\\tinymce-5\\content.inline.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 1,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\skins\\ui\\tinymce-5\\content.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 1,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\skins\\ui\\tinymce-5\\skin.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 4,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\themes\\silver\\theme.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 3071,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\tinymce.d.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 1,
+                    "filename": "target\\todo-app-1.0.0\\js\\tinymce\\tinymce.min.js"
+                },
+                {
+                    "blank": 37,
+                    "code": 125,
+                    "comment": 10,
+                    "filename": "target\\todo-app-1.0.0\\js\\validation.js"
+                },
+                {
+                    "blank": 16,
+                    "code": 103,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\login.jsp"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\META-INF\\context.xml"
+                },
+                {
+                    "blank": 1,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\META-INF\\MANIFEST.MF"
+                },
+                {
+                    "blank": 6,
+                    "code": 73,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\navbar.jsp"
+                },
+                {
+                    "blank": 10,
+                    "code": 102,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\profile.jsp"
+                },
+                {
+                    "blank": 20,
+                    "code": 173,
+                    "comment": 6,
+                    "filename": "target\\todo-app-1.0.0\\register.jsp"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\report.jsp"
+                },
+                {
+                    "blank": 5,
+                    "code": 52,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\reset-password.jsp"
+                },
+                {
+                    "blank": 5,
+                    "code": 160,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\text.jsp"
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\todo (1).xlsx",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\todo.xlsx",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 16,
+                    "code": 161,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\totalRole.jsp"
+                },
+                {
+                    "blank": 7,
+                    "code": 74,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\update-user.jsp"
+                },
+                {
+                    "blank": 17,
+                    "code": 128,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\update.jsp"
+                },
+                {
+                    "blank": 11,
+                    "code": 206,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\user-manager-filter.jsp"
+                },
+                {
+                    "blank": 14,
+                    "code": 230,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\user-manager.jsp"
+                },
+                {
+                    "blank": 16,
+                    "code": 253,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\user-priority-filter.jsp"
+                },
+                {
+                    "blank": 17,
+                    "code": 267,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\user.jsp"
+                },
+                {
+                    "blank": 4,
+                    "code": 96,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\view-cmt.jsp"
+                },
+                {
+                    "blank": 1,
+                    "code": 8,
+                    "comment": 1,
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\application.properties"
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\constants\\Constants.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\controller\\AddController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\controller\\CheckOTPController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\controller\\CommentController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\controller\\ContactController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\controller\\DailyAmountServlet.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\controller\\DeleteCMTController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\controller\\DeleteController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\controller\\EditController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\controller\\EditUserController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\controller\\ExcelController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\controller\\ForgetController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\controller\\LoadAll.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\controller\\LoadController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\controller\\LoadDeleteController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\controller\\LoadFilterController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\controller\\LoadFilterDueController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\controller\\LoginController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\controller\\LogOutController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\controller\\ProfileController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\controller\\RegisterController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\controller\\ResetPassController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\controller\\SearchByAjaxAdController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\controller\\SearchByAjaxController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\controller\\SearchController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\controller\\SearchNameUController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\controller\\SearchUByAjaxController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\controller\\SearchUserController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\controller\\TimeOutController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\controller\\UploadFileController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\controller\\UserDataController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\controller\\UserFilterController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\controller\\UserFilterPriorityController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\controller\\UserFilterRoleController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\controller\\UserManagerController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\controller\\ViewCMTController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\dto\\request\\LoginRequestDto.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\dto\\request\\RegisterRequestDto.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\dto\\response\\LoginResponseDto.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\dto\\response\\UserResponseDto.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\entities\\BaseEntity.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\entities\\CommentEntity.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\entities\\CouponEntity.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\entities\\Graph.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\entities\\UserEntity.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\enums\\UserStatus.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\filter\\AdminFilter.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\filter\\LoginFilter.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\repository\\CommentRepository.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\repository\\ReceiptPaymentRepositorys.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\repository\\UserRepository.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\repository\\ViewRepository.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\service\\AuthService.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\service\\CommentService.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\service\\CouponService.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\service\\impl\\AuthServiceImpl.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\service\\impl\\CommentServiceImpl.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\service\\impl\\CouponServiceImpl.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\service\\impl\\ViewServiceImpl.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\service\\ViewService.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\utils\\DBUtil.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\utils\\JavaMailUtil$1.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\utils\\JavaMailUtil.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\utils\\MailMessage.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\classes\\com\\se4f7\\SWP\\utils\\ReadFromExcelFile.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\lib\\caffeine-2.9.3.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\lib\\checker-qual-3.32.0.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\lib\\commons-codec-1.15.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\lib\\commons-collections4-4.4.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\lib\\commons-compress-1.21.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\lib\\commons-io-2.11.0.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\lib\\commons-math3-3.6.1.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\lib\\curvesapi-1.06.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\lib\\error_prone_annotations-2.10.0.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\lib\\jakarta.activation-2.0.1.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\lib\\jakarta.activation-api-2.1.1.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\lib\\jakarta.mail-2.0.1.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\lib\\jakarta.mail-api-2.1.1.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\lib\\javax.servlet-api-3.1.0.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\lib\\jbcrypt-0.4.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\lib\\jcl-over-slf4j-2.0.7.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\lib\\jna-5.13.0.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\lib\\jna-platform-5.13.0.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\lib\\jstl-1.2.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\lib\\log4j-api-2.17.1.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\lib\\log4j-core-2.14.1.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\lib\\mariadb-java-client-3.3.0.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\lib\\poi-5.2.0.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\lib\\poi-ooxml-5.2.0.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\lib\\poi-ooxml-lite-5.2.0.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\lib\\slf4j-api-2.0.7.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\lib\\SparseBitSet-1.2.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\lib\\standard-1.1.2.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\lib\\waffle-jna-3.3.0.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\lib\\xml-apis-1.4.01.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\lib\\xmlbeans-5.0.3.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 317,
+                    "comment": 0,
+                    "filename": "target\\todo-app-1.0.0\\WEB-INF\\web.xml"
+                },
+                {
+                    "blank": 20,
+                    "code": 125,
+                    "comment": 0,
+                    "filename": "WebContent\\add.jsp"
+                },
+                {
+                    "blank": 33,
+                    "code": 315,
+                    "comment": 0,
+                    "filename": "WebContent\\admin-filter.jsp"
+                },
+                {
+                    "blank": 12,
+                    "code": 179,
+                    "comment": 0,
+                    "filename": "WebContent\\admin-graph.jsp"
+                },
+                {
+                    "blank": 8,
+                    "code": 240,
+                    "comment": 0,
+                    "filename": "WebContent\\admin.jsp"
+                },
+                {
+                    "filename": "WebContent\\assets\\favicon.ico",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "WebContent\\assets\\img\\bg-masthead.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "WebContent\\assets\\img\\portfolio\\fullsize\\1.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "WebContent\\assets\\img\\portfolio\\fullsize\\2.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "WebContent\\assets\\img\\portfolio\\fullsize\\3.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "WebContent\\assets\\img\\portfolio\\fullsize\\4.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "WebContent\\assets\\img\\portfolio\\fullsize\\5.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "WebContent\\assets\\img\\portfolio\\fullsize\\6.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "WebContent\\assets\\img\\portfolio\\thumbnails\\1.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "WebContent\\assets\\img\\portfolio\\thumbnails\\2.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "WebContent\\assets\\img\\portfolio\\thumbnails\\3.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "WebContent\\assets\\img\\portfolio\\thumbnails\\4.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "WebContent\\assets\\img\\portfolio\\thumbnails\\5.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "WebContent\\assets\\img\\portfolio\\thumbnails\\6.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 3,
+                    "code": 49,
+                    "comment": 0,
+                    "filename": "WebContent\\checkotp.jsp"
+                },
+                {
+                    "blank": 6,
+                    "code": 138,
+                    "comment": 0,
+                    "filename": "WebContent\\comments.jsp"
+                },
+                {
+                    "blank": 0,
+                    "code": 42,
+                    "comment": 0,
+                    "filename": "WebContent\\Contact.jsp"
+                },
+                {
+                    "blank": 0,
+                    "code": 8892,
+                    "comment": 6,
+                    "filename": "WebContent\\css\\bootstrap.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "WebContent\\css\\comment.css"
+                },
+                {
+                    "blank": 3,
+                    "code": 145,
+                    "comment": 0,
+                    "filename": "WebContent\\css\\index.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "WebContent\\css\\login-style.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 14784,
+                    "comment": 23,
+                    "filename": "WebContent\\css\\mdb.dark.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "WebContent\\css\\mdb.dark.min.css.map"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 10,
+                    "filename": "WebContent\\css\\mdb.dark.rtl.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "WebContent\\css\\mdb.dark.rtl.min.css.map"
+                },
+                {
+                    "blank": 0,
+                    "code": 14275,
+                    "comment": 41,
+                    "filename": "WebContent\\css\\mdb.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "WebContent\\css\\mdb.min.css.map"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 10,
+                    "filename": "WebContent\\css\\mdb.rtl.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "WebContent\\css\\mdb.rtl.min.css.map"
+                },
+                {
+                    "blank": 1,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "WebContent\\css\\nav.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "WebContent\\css\\navbar.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 23,
+                    "comment": 0,
+                    "filename": "WebContent\\css\\register.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": "WebContent\\css\\search.css"
+                },
+                {
+                    "blank": 750,
+                    "code": 10208,
+                    "comment": 37,
+                    "filename": "WebContent\\css\\styles.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 42,
+                    "comment": 0,
+                    "filename": "WebContent\\error.jsp"
+                },
+                {
+                    "blank": 0,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "WebContent\\footer.jsp"
+                },
+                {
+                    "blank": 4,
+                    "code": 46,
+                    "comment": 0,
+                    "filename": "WebContent\\forget.jsp"
+                },
+                {
+                    "blank": 2,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "WebContent\\header.jsp"
+                },
+                {
+                    "filename": "WebContent\\image\\carousel-image1.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "WebContent\\image\\error.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "WebContent\\image\\feature-image1.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "WebContent\\image\\feature-image2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "WebContent\\image\\feature-image3.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 3,
+                    "code": 48,
+                    "comment": 0,
+                    "filename": "WebContent\\import-success.jsp"
+                },
+                {
+                    "blank": 6,
+                    "code": 55,
+                    "comment": 0,
+                    "filename": "WebContent\\index.jsp"
+                },
+                {
+                    "blank": 8,
+                    "code": 229,
+                    "comment": 0,
+                    "filename": "WebContent\\IsDelete_manament.jsp"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "WebContent\\JS.jsp"
+                },
+                {
+                    "blank": 0,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "WebContent\\js\\comment.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 76,
+                    "comment": 0,
+                    "filename": "WebContent\\js\\deleted.js"
+                },
+                {
+                    "blank": 8,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "WebContent\\js\\filter.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "WebContent\\js\\handle.js"
+                },
+                {
+                    "blank": 11,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "WebContent\\js\\main.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 19,
+                    "filename": "WebContent\\js\\mdb.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "WebContent\\js\\mdb.min.js.map"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 4,
+                    "filename": "WebContent\\js\\popper.js"
+                },
+                {
+                    "blank": 9,
+                    "code": 36,
+                    "comment": 6,
+                    "filename": "WebContent\\js\\scripts.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 48,
+                    "comment": 0,
+                    "filename": "WebContent\\js\\search.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "WebContent\\js\\tinymce\\icons\\default\\icons.min.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 2,
+                    "comment": 1,
+                    "filename": "WebContent\\js\\tinymce\\langs\\README.md"
+                },
+                {
+                    "blank": 4,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "WebContent\\js\\tinymce\\license.txt"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "WebContent\\js\\tinymce\\models\\dom\\model.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "WebContent\\js\\tinymce\\plugins\\advlist\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "WebContent\\js\\tinymce\\plugins\\anchor\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "WebContent\\js\\tinymce\\plugins\\autolink\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "WebContent\\js\\tinymce\\plugins\\autoresize\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "WebContent\\js\\tinymce\\plugins\\autosave\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "WebContent\\js\\tinymce\\plugins\\charmap\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "WebContent\\js\\tinymce\\plugins\\code\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 4,
+                    "filename": "WebContent\\js\\tinymce\\plugins\\codesample\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "WebContent\\js\\tinymce\\plugins\\directionality\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "WebContent\\js\\tinymce\\plugins\\emoticons\\js\\emojiimages.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 2,
+                    "filename": "WebContent\\js\\tinymce\\plugins\\emoticons\\js\\emojiimages.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "WebContent\\js\\tinymce\\plugins\\emoticons\\js\\emojis.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 1,
+                    "filename": "WebContent\\js\\tinymce\\plugins\\emoticons\\js\\emojis.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "WebContent\\js\\tinymce\\plugins\\emoticons\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "WebContent\\js\\tinymce\\plugins\\fullscreen\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 4,
+                    "filename": "WebContent\\js\\tinymce\\plugins\\help\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 4,
+                    "filename": "WebContent\\js\\tinymce\\plugins\\image\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "WebContent\\js\\tinymce\\plugins\\importcss\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "WebContent\\js\\tinymce\\plugins\\insertdatetime\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 4,
+                    "filename": "WebContent\\js\\tinymce\\plugins\\link\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "WebContent\\js\\tinymce\\plugins\\lists\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "WebContent\\js\\tinymce\\plugins\\media\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "WebContent\\js\\tinymce\\plugins\\nonbreaking\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "WebContent\\js\\tinymce\\plugins\\pagebreak\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "WebContent\\js\\tinymce\\plugins\\preview\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "WebContent\\js\\tinymce\\plugins\\quickbars\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "WebContent\\js\\tinymce\\plugins\\save\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "WebContent\\js\\tinymce\\plugins\\searchreplace\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "WebContent\\js\\tinymce\\plugins\\table\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "WebContent\\js\\tinymce\\plugins\\template\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "WebContent\\js\\tinymce\\plugins\\visualblocks\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "WebContent\\js\\tinymce\\plugins\\visualchars\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "WebContent\\js\\tinymce\\plugins\\wordcount\\plugin.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "WebContent\\js\\tinymce\\skins\\content\\dark\\content.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "WebContent\\js\\tinymce\\skins\\content\\default\\content.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "WebContent\\js\\tinymce\\skins\\content\\document\\content.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "WebContent\\js\\tinymce\\skins\\content\\tinymce-5-dark\\content.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "WebContent\\js\\tinymce\\skins\\content\\tinymce-5\\content.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "WebContent\\js\\tinymce\\skins\\content\\writer\\content.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 1,
+                    "filename": "WebContent\\js\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 1,
+                    "filename": "WebContent\\js\\tinymce\\skins\\ui\\oxide-dark\\content.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 1,
+                    "filename": "WebContent\\js\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "WebContent\\js\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 1,
+                    "filename": "WebContent\\js\\tinymce\\skins\\ui\\oxide\\content.inline.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 1,
+                    "filename": "WebContent\\js\\tinymce\\skins\\ui\\oxide\\content.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 1,
+                    "filename": "WebContent\\js\\tinymce\\skins\\ui\\oxide\\skin.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "WebContent\\js\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 1,
+                    "filename": "WebContent\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 1,
+                    "filename": "WebContent\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\content.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 1,
+                    "filename": "WebContent\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "WebContent\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 1,
+                    "filename": "WebContent\\js\\tinymce\\skins\\ui\\tinymce-5\\content.inline.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 1,
+                    "filename": "WebContent\\js\\tinymce\\skins\\ui\\tinymce-5\\content.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 1,
+                    "filename": "WebContent\\js\\tinymce\\skins\\ui\\tinymce-5\\skin.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "WebContent\\js\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.min.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 4,
+                    "filename": "WebContent\\js\\tinymce\\themes\\silver\\theme.min.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 3071,
+                    "comment": 0,
+                    "filename": "WebContent\\js\\tinymce\\tinymce.d.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 1,
+                    "filename": "WebContent\\js\\tinymce\\tinymce.min.js"
+                },
+                {
+                    "blank": 37,
+                    "code": 125,
+                    "comment": 10,
+                    "filename": "WebContent\\js\\validation.js"
+                },
+                {
+                    "blank": 16,
+                    "code": 103,
+                    "comment": 0,
+                    "filename": "WebContent\\login.jsp"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "WebContent\\META-INF\\context.xml"
+                },
+                {
+                    "blank": 1,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "WebContent\\META-INF\\MANIFEST.MF"
+                },
+                {
+                    "blank": 6,
+                    "code": 73,
+                    "comment": 0,
+                    "filename": "WebContent\\navbar.jsp"
+                },
+                {
+                    "blank": 10,
+                    "code": 102,
+                    "comment": 0,
+                    "filename": "WebContent\\profile.jsp"
+                },
+                {
+                    "blank": 20,
+                    "code": 173,
+                    "comment": 6,
+                    "filename": "WebContent\\register.jsp"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "WebContent\\report.jsp"
+                },
+                {
+                    "blank": 5,
+                    "code": 52,
+                    "comment": 0,
+                    "filename": "WebContent\\reset-password.jsp"
+                },
+                {
+                    "blank": 5,
+                    "code": 160,
+                    "comment": 0,
+                    "filename": "WebContent\\text.jsp"
+                },
+                {
+                    "blank": 16,
+                    "code": 161,
+                    "comment": 0,
+                    "filename": "WebContent\\totalRole.jsp"
+                },
+                {
+                    "blank": 7,
+                    "code": 74,
+                    "comment": 0,
+                    "filename": "WebContent\\update-user.jsp"
+                },
+                {
+                    "blank": 17,
+                    "code": 128,
+                    "comment": 0,
+                    "filename": "WebContent\\update.jsp"
+                },
+                {
+                    "blank": 11,
+                    "code": 206,
+                    "comment": 0,
+                    "filename": "WebContent\\user-manager-filter.jsp"
+                },
+                {
+                    "blank": 14,
+                    "code": 230,
+                    "comment": 0,
+                    "filename": "WebContent\\user-manager.jsp"
+                },
+                {
+                    "blank": 16,
+                    "code": 253,
+                    "comment": 0,
+                    "filename": "WebContent\\user-priority-filter.jsp"
+                },
+                {
+                    "blank": 17,
+                    "code": 267,
+                    "comment": 0,
+                    "filename": "WebContent\\user.jsp"
+                },
+                {
+                    "blank": 4,
+                    "code": 96,
+                    "comment": 0,
+                    "filename": "WebContent\\view-cmt.jsp"
+                },
+                {
+                    "blank": 0,
+                    "code": 317,
+                    "comment": 0,
+                    "filename": "WebContent\\WEB-INF\\web.xml"
+                }
+            ]
+        }
+    ]
+}
